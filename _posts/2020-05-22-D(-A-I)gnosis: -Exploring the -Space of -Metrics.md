@@ -1,3 +1,12 @@
+---
+title: 'Useful Metrics in Medical Diagnosis'
+date: 2020-05-22
+permalink: /posts/2020/05/Useful-Metrics-in-Medical-Diagnosis/
+tags:
+  - AI in Medicine
+  - Metrics
+---
+
 Episode 1: Useful Metrics in Medical Diagnosis
 > *Authors:* [Simone Azeglio](undefined), [Arianna Di Bernardo](undefined), [Nicolò Toscano](undefined), [Carlo Alberto Maria Barbano](undefined)
 
