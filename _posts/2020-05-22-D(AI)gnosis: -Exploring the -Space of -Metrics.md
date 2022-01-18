@@ -1,14 +1,14 @@
 ---
-title: 'Useful Metrics in Medical Diagnosis'
+title: 'DAIgnosis: Exploring the Space of Metrics'
 date: 2020-05-22
-permalink: /posts/2020/05/Useful-Metrics-in-Medical-Diagnosis/
+permalink: /posts/2020/05/DAIgnosis-Exploring-the-Space-of-Metrics/
 tags:
   - AI in Medicine
   - Metrics
 ---
 
 Episode 1: Useful Metrics in Medical Diagnosis
-> *Authors:* [Simone Azeglio](undefined), [Arianna Di Bernardo](undefined), [Nicolò Toscano](undefined), [Carlo Alberto Maria Barbano](undefined)
+
 
 ![](https://cdn-images-1.medium.com/max/3840/1*3Y3pCTM2_-dCAa96yQtQaA.jpeg)
 
