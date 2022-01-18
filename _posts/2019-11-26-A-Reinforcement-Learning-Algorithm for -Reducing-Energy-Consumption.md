@@ -1,8 +1,11 @@
 ---
-layout: "post"
-readtime: true
-comments: true
-show-avatar: false
+title: 'A Reinforcement Learning Algorithm for Reducing Energy Consumption'
+date: 2019-11-26
+permalink: /posts/2019/11/AReinforcement-Learning-Algorithm-for-Reducing-Energy-Consumption/
+tags:
+  - reinforcement learning
+  - climate
+  - energy
 ---
 
 Progress in urbanization and advancement of the *“fully connected”* society is giving electricity more and more importance as the main energy source for our social life. Electricity, like air and water, is so widespread that nobody may notice its existence. In view of the increase in its demand, the electric power system has come to face three adversely affecting issues, namely: energy security, economic growth, and environmental protection. Or else, if supply of electricity is stopped, our society will be thrown into a terrible chaos. 
