@@ -1,8 +1,11 @@
 ---
-layout: "post"
-readtime: true
-comments: true
-show-avatar: false
+title: 'Deep Fake Challenge: an Overview'
+date: 2020-06-01
+permalink: /posts/2020/06/Deep-Fake-Challenge:-an-Overview/
+tags:
+  - Deep Fake
+  - Image Classification
+  - Computer Vision
 ---
 
 Here it follows a brief introduction to the Deep Fake Challenge from Kaggle. 
