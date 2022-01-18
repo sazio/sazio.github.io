@@ -1,8 +1,10 @@
 ---
-layout: "post"
-readtime: true
-comments: true
-show-avatar: false
+title: 'The Learning Problem: Comparison between Brain and Machine'
+date: 2020-05-09
+permalink: /posts/2020/05/The-Learning-Problem:-Comparison-between-Brain-and-Machine/
+tags:
+  - Machine Learning
+  - Neuroscience
 ---
 
 ### Chapter 1: The Neuron and the Perceptron
