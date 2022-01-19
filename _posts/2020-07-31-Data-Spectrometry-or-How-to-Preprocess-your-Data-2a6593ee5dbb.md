@@ -8,7 +8,7 @@ tags:
 
 ![](/Users/simoneazeglio/Desktop/medium-export-199dda1dedfd605ff097695f40857b9d7be93a1decc76c15a1c2fe0a2617d57e/posts/md_1642635604048/img/1__rzyaIB4v1udby1uxloxl8g.jpeg)
 
-> This is the first article of a to-be series devoted to figure out a way to tackle a Machine Learning (ML) competition. A few months ago, the MLJCUnito gained access to an international ML competition on climate change, organized by the University of Toronto: [www.projectx2020.com](http://www.projectx2020.com). This competition will start on September 2020, so we decided to start gathering some useful material related to competition dynamics such as Data Preprocessing, Feature Engineering and convert them in a lecture-like format.
+> This is the first article of a to-be series devoted to figure out a way to tackle a Machine Learning (ML) competition. A few months ago, the MLJC gained access to an international ML competition on climate change, organized by the University of Toronto: [www.projectx2020.com](http://www.projectx2020.com). This competition will start on September 2020, so we decided to start gathering some useful material related to competition dynamics such as Data Preprocessing, Feature Engineering and convert them in a lecture-like format.
 
 In this first part, we’d like to tell you about some practical tricks for making **gradient descent** work well, in particular, we’re going to delve into feature scaling. As an introductory view, it seems reasonable to try to depict an intuition of the concept of _scale_.
 
