@@ -1,4 +1,13 @@
- A Bunch of Words: an Introduction to SpaCy on CORD-19
+---
+title: 'A Bunch of Words: an Introduction to SpaCy on CORD-19'
+date: 2020-12-10
+permalink: /posts/2020/10/A-Bunch-of-Words:-an-Introduction-to-SpaCy-on-CORD-1/
+tags:
+  - natural language processing
+  - covid-19
+---
+
+A Bunch of Words: an Introduction to SpaCy on CORD-19
 =====================================================
 
 Episode 1: Linguistic Features & Text Processing
