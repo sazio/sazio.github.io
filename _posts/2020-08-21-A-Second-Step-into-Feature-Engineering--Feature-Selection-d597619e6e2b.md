@@ -8,7 +8,7 @@ tags:
 ---
 
 
-> We are ready to start with the second part of Feature Engineering (if you’ve missed the previous article, you can find it [here](https://medium.com/mljcunito/an-introduction-to-feature-engineering-feature-importance-7e8265eb3a36)). In this short article, we’ll go through a few simple techniques in Feature Selection and Extraction.
+> We are ready to start with the second part of Feature Engineering (if you’ve missed the previous article, you can find it [here](https://sazio.github.io/posts/2020/08/An-Introduction-to-Feature-Engineering:-Feature-Importance/)). In this short article, we’ll go through a few simple techniques in Feature Selection and Extraction.
 
 ![](img/1__XHHToil9E5EFeEh0H0rnjA.jpeg)
 
