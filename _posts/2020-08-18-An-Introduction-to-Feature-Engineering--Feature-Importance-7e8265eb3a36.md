@@ -9,7 +9,7 @@ tags:
 
 ![](img/1__vWsOfiQ78s7f6HZ6wpLoHg.png)
 
-> After having read the [first article](https://medium.com/mljcunito/data-spectrometry-or-how-to-preprocess-your-data-2a6593ee5dbb) of this series, devoted to figuring out a way to tackle a Machine Learning (ML) competition, we are now ready to go on with Feature Engineering, and, in particular Feature Importance.
+> After having read the [first article](https://sazio.github.io/posts/2020/07/Data-Spectrometry-or-How-to-Preprocess-your-Data/) of this series, devoted to figuring out a way to tackle a Machine Learning (ML) competition, we are now ready to go on with Feature Engineering, and, in particular Feature Importance.
 
 The real deal is that nobody explicitly tells you what **feature engineering** is, in some way, you are expected to understand for yourself what are good features.
 
