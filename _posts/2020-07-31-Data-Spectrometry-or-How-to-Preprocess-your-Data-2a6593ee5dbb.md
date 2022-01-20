@@ -6,9 +6,9 @@ tags:
   - preprocessing
 ---
 
-![](/Users/simoneazeglio/Desktop/medium-export-199dda1dedfd605ff097695f40857b9d7be93a1decc76c15a1c2fe0a2617d57e/posts/md_1642635604048/img/1__rzyaIB4v1udby1uxloxl8g.jpeg)
+![](img/1__rzyaIB4v1udby1uxloxl8g.jpeg)
 
-> This is the first article of a to-be series devoted to figure out a way to tackle a Machine Learning (ML) competition. A few months ago, the MLJCUnito gained access to an international ML competition on climate change, organized by the University of Toronto: [www.projectx2020.com](http://www.projectx2020.com). This competition will start on September 2020, so we decided to start gathering some useful material related to competition dynamics such as Data Preprocessing, Feature Engineering and convert them in a lecture-like format.
+> This is the first article of a to-be series devoted to figure out a way to tackle a Machine Learning (ML) competition. A few months ago, the MLJC gained access to an international ML competition on climate change, organized by the University of Toronto: [www.projectx2020.com](http://www.projectx2020.com). This competition will start on September 2020, so we decided to start gathering some useful material related to competition dynamics such as Data Preprocessing, Feature Engineering and convert them in a lecture-like format.
 
 In this first part, we’d like to tell you about some practical tricks for making **gradient descent** work well, in particular, we’re going to delve into feature scaling. As an introductory view, it seems reasonable to try to depict an intuition of the concept of _scale_.
 
@@ -16,7 +16,7 @@ In this first part, we’d like to tell you about some practical tricks for maki
 
 As scientists, we are well aware of the effects of using a specific measurement tool in order to characterize some quantity and describe reality. As an ideal example we consider the **length scale**.
 
-![](/Users/simoneazeglio/Desktop/medium-export-199dda1dedfd605ff097695f40857b9d7be93a1decc76c15a1c2fe0a2617d57e/posts/md_1642635604048/img/0__mxtbVvVB3v5NTbbp.png)
+![](img/0__mxtbVvVB3v5NTbbp.png)
 
 We can identify three different points of view: _microscopic_, _mesoscopic_ and _macroscopic_; which are intimately related to the adopted lenght scale.
 
@@ -34,7 +34,7 @@ It’s a sort of paradox, but a data scientist can’t really deal with data ret
 
 Is there something that we can do about it? The only thing we can do is assuming that features are independent and scale these features in order to have something compatible from one to the other. This procedure is called **feature scaling**, and soon we’ll understand why it is useful even for ML algorithms, such as gradient descent.
 
-![](/Users/simoneazeglio/Desktop/medium-export-199dda1dedfd605ff097695f40857b9d7be93a1decc76c15a1c2fe0a2617d57e/posts/md_1642635604048/img/0__Cn7w5qo3PAd3om6t.png)
+![](img/0__Cn7w5qo3PAd3om6t.png)
 
 If you make sure that features are on similar scales, i.e. features take on similar range of values, then gradient descent can converge more quickly.
 
@@ -128,8 +128,8 @@ Can you retrieve the explicit formula for _MinMaxScaler_?
 
 Here’s the solution
 
-![](/Users/simoneazeglio/Desktop/medium-export-199dda1dedfd605ff097695f40857b9d7be93a1decc76c15a1c2fe0a2617d57e/posts/md_1642635604048/img/1__qycZhu6uSTaACblZjut9hg.png)
-![](/Users/simoneazeglio/Desktop/medium-export-199dda1dedfd605ff097695f40857b9d7be93a1decc76c15a1c2fe0a2617d57e/posts/md_1642635604048/img/1__hDdvlr__A__4qXkGJPtYOR2w.png)
+![](img/1__qycZhu6uSTaACblZjut9hg.png)
+![](img/1__hDdvlr__A__4qXkGJPtYOR2w.png)
 
 _MaxAbsScaler_ works in a similar fashion, the data will lie in the range _\[-1,1\]_. It is meant for data that is already centered at zero or sparse data.
 
@@ -212,7 +212,7 @@ Many machine learning algorithms prefer or perform better when numerical input v
 
 and the _Box-Cox_ transform:
 
-![](/Users/simoneazeglio/Desktop/medium-export-199dda1dedfd605ff097695f40857b9d7be93a1decc76c15a1c2fe0a2617d57e/posts/md_1642635604048/img/1__vVNA5FCtIaOKgyWp6yqlvQ.png)
+![](img/1__vVNA5FCtIaOKgyWp6yqlvQ.png)
 
 Box-Cox can only be applied to strictly positive data. In both methods, the transformation is parametrized by $\\lambda$, which is determined through maximum-likelihood estimation. Here is an example of using Box-Cox to map samples drawn from a lognormal distribution to a normal distribution:
 
@@ -226,7 +226,7 @@ pt.fit_transform(X_lognormal)
 
 Below are some examples of the two transforms applied to various probability distributions, _any comment_?
 
-![](/Users/simoneazeglio/Desktop/medium-export-199dda1dedfd605ff097695f40857b9d7be93a1decc76c15a1c2fe0a2617d57e/posts/md_1642635604048/img/0__lIAgUh67__Lgm7yqh.png)
+![](img/0__lIAgUh67__Lgm7yqh.png)
 
 ### Normalization
 
