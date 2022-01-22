@@ -1,7 +1,7 @@
 ---
 title: "Physics-Informed Machine Learning Simulator for Wildfire Propagation"
 collection: publications
-permalink: /publications/2021-03-Physics-Informed-Machine-Learning-Simulator-for-Wildfire-Propagation
+permalink: /publications/2021-03-24-Physics-Informed-Machine-Learning-Simulator-for-Wildfire-Propagation
 excerpt: ''
 date: 2021-03
 venue: 'AAAI 2021 Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physical Sciences'
