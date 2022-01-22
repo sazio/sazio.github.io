@@ -1,6 +1,6 @@
 ---
 title: "Physics-Informed Machine Learning Simulator for Wildfire Propagation"
-collection: Presentation
+collection: talks
 type: "Poster"
 permalink: /talks/2021-01-16-Physics-Informed-Machine-Learning-Simulator-for-Wildfire-Propagation
 venue: "M2LSchool"
