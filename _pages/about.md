@@ -16,10 +16,11 @@ I'm also the co-founder and president of the [Machine Learning Journal Club (MLJ
 ## Research Interests
 
 
-I’m truly fascinated by **representation learning**, in particular by the idea of uncovering the underlying principles and symmetries, i.e. informative low dimensional geometrical structures, that allow for invariant and stable representations. While interested in the artificial perspective on neural networks, I’m convinced that to advance Science by following Feynman’s formula *"what I cannot create, I do not understand”*, we need to consider biological learning.
+I’m truly fascinated by **representation learning**, in particular by the idea of uncovering the underlying principles and symmetries, i.e. informative low dimensional geometrical structures, that allow for invariant and stable representations. 
 
-Given my background, at the intersection of experimental and theoretical Physics, I’m aware of the scientific paradigm as a fusion between experimental findings and theoretical perspectives. To characterize biological intelligence as a complex system, I aim to examine the transition between micro, meso and macro scales in terms of relevant invariants. 
+I believe that there can be different standpoints on this very general problem, for example from a Physicist's perspective: using physics as a “regularizer” for learning with artificial neural nets is related to learning meaningful low dimensional representations. This recalls Noether’s theorem in Physics: it is possible to determine conserved quantities, i.e. invariants, from the observed symmetries of a physical system. Similarly, it is possible to consider classes of Lagrangians with given invariants to describe a physical system. Thus, I believe there is a strict relationship between understanding invariant representations by imposing low-level structures and hypothesizing specific physical laws which turn out to give place to symmetrical structures.
 
+While being interested in the artificial perspective on neural networks, I’m convinced that if we want to advance science, by following Feynman’s formula *“what I cannot create, I do not understand”*, we need to consider biological learning. To characterize biological intelligence as a complex system, I aim to examine the transition between micro, meso and macro scales. As anticipated by **David Marr**, to design a meaningful neural network theory and make testable and valuable predictions, we need to tie it to neural circuitry. I consider Marr’s framework as the backbone of a complicated but feasible process: with a radical extension, i.e. coupling and studying simultaneously the different levels of organization of the brain, we might be able to improve our current understanding.
 
 
 --- 
