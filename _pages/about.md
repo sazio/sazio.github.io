@@ -36,6 +36,8 @@ I believe that there can be different standpoints on this very general problem, 
 
 While being interested in the artificial perspective on neural networks, I’m convinced that if we want to advance science, by following Feynman’s formula *“what I cannot create, I do not understand”*, we need to consider biological learning. To characterize biological intelligence as a complex system, I aim to examine the transition between micro, meso and macro scales. As anticipated by **David Marr**, to design a meaningful neural network theory and make testable and valuable predictions, we need to tie it to neural circuitry. I consider Marr’s framework as the backbone of a complicated but feasible process: with a radical extension, i.e. coupling and studying simultaneously the different levels of organization of the brain, we might be able to improve our current understanding.
 
+Feel free to [contact me](mailto:simone.azeglio@pasteur.fr) if you are interested in one of MLJC's projects or if we share some interests!
+
 
 --- 
 
