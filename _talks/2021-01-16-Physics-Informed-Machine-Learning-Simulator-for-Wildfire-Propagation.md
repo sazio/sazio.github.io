@@ -8,3 +8,6 @@ date: 2021-01-16
 location: "Milan, Italy (Remote)"
 ---
 
+[More Information Here](https://www.m2lschool.org/)
+
+[Here my Presentation](https://www.youtube.com/watch?v=Yov0aHZ_TU0&t=1s) awarded with an "Oustanding Poster Award"
