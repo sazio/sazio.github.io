@@ -15,6 +15,18 @@ Salut! I am currently a Research Engineer in [Brice Bathellier](https://www.bath
 
 I'm also the co-founder and president of the [Machine Learning Journal Club (MLJC)](https://www.mljc.it) a non-profit research organization, focused on interdisciplinary applications of Machine and Deep Learning, with an [open-source attitude](https://github.com/MachineLearningJournalClub). 
 
+Through MLJC, I worked and I'm currently working on the following topics: 
+* **Scientific Machine Learning**: Physics Informed Neural Networks, with applications on [Wildfire Spreading](http://ceur-ws.org/Vol-2964/article_171.pdf); Quadrature Methods for [NeuralPDE](https://neuralpde.sciml.ai/stable/), wrote a [preprint](https://arxiv.org/abs/2107.09443) by collaborating with Julia Computing and Christopher V. Rackauckas from MIT Julia Lab; Now working on Nonlinear Dynamical Systems identification and control for Real Time Machine Learning with FPGAs.
+* **Brain Computer Interfaces**: Topological Data Analysis approach for extracting relevant features on ECoG's data ([preprint](https://arxiv.org/abs/2110.04653), [code](https://github.com/MachineLearningJournalClub/ECoG_VBH_2021)); Random Convolutional Kernels for Near Real Time feature extraction from SSVEP data
+* **Natural Language Processing**: Designed an introductory course on [NLP](https://github.com/MachineLearningJournalClub/LearningNLP); Worked on Sentence Transformers models for Readability; Took part in [HuggingFace x JAX community week](https://discuss.huggingface.co/t/train-the-best-sentence-embedding-model-ever-with-1b-training-pairs/7354) by working on the largest sentence transformer model (~1B params)
+
+Recently, I'm organizing a new group on deepening the role of **Symmetries** in the learning process, we are currently exploring:
+
+* What could be the relationship between **inductive biases** in Geometric Deep Learning and Physics Informed Machine Learning models
+* Symmetry regularization as a biologically plausible form of regularization
+* Brainscore 2022 Competition : is group sparsity (pinwheels in V1) another way of imposing topographic properties in CNN layers 
+
+
 ## Research Interests
 
 
