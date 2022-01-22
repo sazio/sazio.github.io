@@ -24,7 +24,7 @@ Recently, I'm organizing a new group on deepening the role of **Symmetries** in 
 
 * What could be the relationship between **inductive biases** in Geometric Deep Learning and Physics Informed Machine Learning models
 * Symmetry regularization as a biologically plausible form of regularization
-* Brainscore 2022 Competition : is group sparsity (pinwheels in V1) another way of imposing topographic properties in CNN layers 
+* [Brainscore 2022 Competition](http://www.brain-score.org/competition/): is group sparsity (pinwheels in V1) another way of imposing topographic properties in CNN layers? 
 
 
 ## Research Interests
