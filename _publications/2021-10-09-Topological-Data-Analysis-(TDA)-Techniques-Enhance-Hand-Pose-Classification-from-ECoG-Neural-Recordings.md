@@ -1,7 +1,7 @@
 ---
 title: "Topological Data Analysis (TDA) Techniques Enhance Hand Pose Classification from ECoG Neural Recordings"
 collection: publications
-permalink: /publications/2021-10-09-Topological-Data-Analysis-(TDA)-Techniques-Enhance-Hand-Pose-Classification-from-ECoG-Neural-Recordings
+permalink: /publications/2021-10-09-Topological-Data-Analysis-(TDA)-Techniques-Enhance-Hand-Pose-Classification-from-ECoG-Neural-Recordings/
 excerpt: ""
 date: 2021-10-09
 authors: Simone Azeglio, Arianna Di Bernardo, Gabriele Penna, Fabrizio Pittatore, Simone Poetto, Johannes Gruenwald, Christoph Kapeller, Kyousuke Kamada, Christoph Guger
