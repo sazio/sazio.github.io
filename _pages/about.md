@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Key Interests: Representation Learning, NeuroAI, Equivariant Representations
+**Key Interests: Representation Learning, NeuroAI, Equivariant Representations**
 
 Salut! I am currently a Research Engineer in [Brice Bathellier](https://www.bathellier-lab.org/people/Brice)'s Lab at the Hearing Institute in Paris, working on nonlinear network models for capturing the transformations that occurs accross the different stages of the auditory system. Previously, I worked as a Research Intern at CERN, under the supervision of [Lorenzo Moneta](https://root.cern/about/team/#Lorenzo%20Moneta), developing data conversion and visualization for the ROOT framework. Before that, I worked on nonlinear models of sequential spatial memory in [André Longtin](https://mysite.science.uottawa.ca/alongtin/)'s  Neurophysics and Nonlinear Dynamics group, at the University of Ottawa, co-supervised by [Leonard Maler](https://www.uottawa.ca/brain/people/maler-leonard) and [Lamberto Rondoni](http://calvino.polito.it/~rondoni/). In the meantime, I completed a M.Sc. in Physics of Complex Systems at the University of Turin. 
 
