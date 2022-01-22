@@ -20,7 +20,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://github.com/sazio/sazio.github.io/blob/747b12d7f5b3430414881aa6f53feb7923ac7c02/_pages/cv.pdf #/cv/
     
  # - title: "Guide"
  #   url: /markdown/
