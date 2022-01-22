@@ -1,7 +1,7 @@
 ---
 title: "NeuralPDE: Automating physics-informed neural networks (PINNs) with error approximations"
 collection: publications
-permalink: /publication/2021-07-19-NeuralPDE:-Automating-physics-informed-neural networks-(PINNs)-with-error-approximations
+permalink: /publications/2021-07-19-NeuralPDE:-Automating-physics-informed-neural networks-(PINNs)-with-error-approximations
 excerpt: ''
 date: 2021-07-19
 venue: 'arXiv'
