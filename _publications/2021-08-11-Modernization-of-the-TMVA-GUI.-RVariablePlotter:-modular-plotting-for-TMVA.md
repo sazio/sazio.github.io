@@ -1,7 +1,7 @@
 ---
 title: "Modernization of the TMVA GUI. RVariablePlotter: modular plotting for TMVA"
 collection: publications
-permalink: /publication/2021-08-11-Modernization-of-the-TMVA-GUI.-RVariablePlotter:-modular-plotting-for-TMVA
+permalink: /publications/2021-08-11-Modernization-of-the-TMVA-GUI.-RVariablePlotter:-modular-plotting-for-TMVA
 excerpt: ''
 date: 2021-08-11
 venue: 'CERN Document Server'
