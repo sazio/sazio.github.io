@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "ICE Reading Group"
-    url: /ice-reading-group/
+  #- title: "ICE Reading Group"
+  # url: /ice-reading-group/
     
   - title: "Publications"
     url: /publications/
