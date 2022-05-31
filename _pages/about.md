@@ -46,7 +46,9 @@ Azeglio & Di Bernardo, <i>Symmetry, Invariance and Neural Representations</i> Be
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s official! <a href="https://twitter.com/BernsteinNeuro?ref_src=twsrc%5Etfw">@BernsteinNeuro</a> accepted our - with <a href="https://twitter.com/ari_dibe?ref_src=twsrc%5Etfw">@ari_dibe</a> - workshop proposal 🧠 <br><br>In &quot;Symmetry, Invariance and Neural Representations&quot; we will explore the intimate relationship between the physical world and neural representations. <br><br>Join our speakers in this experience! <a href="https://t.co/eOisKkGGum">pic.twitter.com/eOisKkGGum</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1523036342565105664?ref_src=twsrc%5Etfw">May 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
---- 
+----------
+
+
 [Improving Neural Predictivity in the Visual Cortex with Gated Recurrent Connections](https://openreview.net/references/pdf?id=HbNa-jRWf5)
 ---------
 Azeglio, Poetto, Savant-Aira, Nurisso, <i>Improving Neural Predictivity in the Visual Cortex with Gated Recurrent Connections </i> Brainscore Workshop - Cosyne 2022
