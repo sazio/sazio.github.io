@@ -38,8 +38,7 @@ While being interested in the artificial perspective on neural networks, I’m c
 Feel free to [contact me](mailto:simone.azeglio@pasteur.fr) if you are interested in one of MLJC's projects or if we share some interests!
 
 
-News
-====
+## News
 
 [Symmetry, Invariance and Neural Representations]([https://www.nature.com/articles/s42003-022-03036-1](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/))
 ---------
