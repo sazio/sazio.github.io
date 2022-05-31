@@ -40,12 +40,16 @@ Feel free to [contact me](mailto:simone.azeglio@pasteur.fr) if you are intereste
 
 ## News
 
-[Symmetry, Invariance and Neural Representations]([https://www.nature.com/articles/s42003-022-03036-1](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/))
+[Symmetry, Invariance and Neural Representations](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/)
 ---------
 Azeglio & Di Bernardo, <i>Symmetry, Invariance and Neural Representations</i> Bernstein Conference 2022
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s official! <a href="https://twitter.com/BernsteinNeuro?ref_src=twsrc%5Etfw">@BernsteinNeuro</a> accepted our - with <a href="https://twitter.com/ari_dibe?ref_src=twsrc%5Etfw">@ari_dibe</a> - workshop proposal 🧠 <br><br>In &quot;Symmetry, Invariance and Neural Representations&quot; we will explore the intimate relationship between the physical world and neural representations. <br><br>Join our speakers in this experience! <a href="https://t.co/eOisKkGGum">pic.twitter.com/eOisKkGGum</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1523036342565105664?ref_src=twsrc%5Etfw">May 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 --- 
+[Improving Neural Predictivity in the Visual Cortex with Gated Recurrent Connections](https://openreview.net/references/pdf?id=HbNa-jRWf5)
+---------
+Azeglio, Poetto, Savant-Aira, Nurisso <i>Improving Neural Predictivity in the Visual Cortex with Gated Recurrent Connections </i> Brainscore Workshop - Cosyne 2022
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/cosyne2022?src=hash&amp;ref_src=twsrc%5Etfw">#cosyne2022</a> was awesome! I had the pleasure to present our work at the <a href="https://twitter.com/brain_score?ref_src=twsrc%5Etfw">@brain_score</a> workshop(<a href="https://t.co/VFa7r7YvZy">https://t.co/VFa7r7YvZy</a>), as part of the selected models submitted to the Brain-Score competition. TLDR: We employed a Gated Recurrent Convolutional Network w/ some fancy augmentation <a href="https://t.co/Iv6sSdpSRo">pic.twitter.com/Iv6sSdpSRo</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1507419565013282821?ref_src=twsrc%5Etfw">March 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
