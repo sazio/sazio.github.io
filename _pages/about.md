@@ -26,7 +26,6 @@ Recently, I'm organizing a new group on deepening the role of **Symmetries** in 
 * Symmetry regularization as a biologically plausible form of regularization
 * [Brainscore 2022 Competition](http://www.brain-score.org/competition/): is group sparsity (pinwheels in V1) another way of imposing topographic properties in CNN layers? 
 
-
 ## Research Interests
 
 
@@ -38,6 +37,15 @@ While being interested in the artificial perspective on neural networks, I’m c
 
 Feel free to [contact me](mailto:simone.azeglio@pasteur.fr) if you are interested in one of MLJC's projects or if we share some interests!
 
+
+News
+====
+
+[Symmetry, Invariance and Neural Representations]([https://www.nature.com/articles/s42003-022-03036-1](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/))
+---------
+Azeglio & Di Bernardo, <i>Symmetry, Invariance and Neural Representations</i> Bernstein Conference 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s official! <a href="https://twitter.com/BernsteinNeuro?ref_src=twsrc%5Etfw">@BernsteinNeuro</a> accepted our - with <a href="https://twitter.com/ari_dibe?ref_src=twsrc%5Etfw">@ari_dibe</a> - workshop proposal 🧠 <br><br>In &quot;Symmetry, Invariance and Neural Representations&quot; we will explore the intimate relationship between the physical world and neural representations. <br><br>Join our speakers in this experience! <a href="https://t.co/eOisKkGGum">pic.twitter.com/eOisKkGGum</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1523036342565105664?ref_src=twsrc%5Etfw">May 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 --- 
 
