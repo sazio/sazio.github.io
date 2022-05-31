@@ -49,7 +49,7 @@ Azeglio & Di Bernardo, <i>Symmetry, Invariance and Neural Representations</i> Be
 --- 
 [Improving Neural Predictivity in the Visual Cortex with Gated Recurrent Connections](https://openreview.net/references/pdf?id=HbNa-jRWf5)
 ---------
-Azeglio, Poetto, Savant-Aira, Nurisso <i>Improving Neural Predictivity in the Visual Cortex with Gated Recurrent Connections </i> Brainscore Workshop - Cosyne 2022
+Azeglio, Poetto, Savant-Aira, Nurisso, <i>Improving Neural Predictivity in the Visual Cortex with Gated Recurrent Connections </i> Brainscore Workshop - Cosyne 2022
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/cosyne2022?src=hash&amp;ref_src=twsrc%5Etfw">#cosyne2022</a> was awesome! I had the pleasure to present our work at the <a href="https://twitter.com/brain_score?ref_src=twsrc%5Etfw">@brain_score</a> workshop(<a href="https://t.co/VFa7r7YvZy">https://t.co/VFa7r7YvZy</a>), as part of the selected models submitted to the Brain-Score competition. TLDR: We employed a Gated Recurrent Convolutional Network w/ some fancy augmentation <a href="https://t.co/Iv6sSdpSRo">pic.twitter.com/Iv6sSdpSRo</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1507419565013282821?ref_src=twsrc%5Etfw">March 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
