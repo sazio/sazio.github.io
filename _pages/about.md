@@ -40,6 +40,14 @@ Feel free to [contact me](mailto:simone.azeglio@pasteur.fr) if you are intereste
 
 ## News
 
+[Brains for Brains Award](https://bernstein-network.de/en/newsroom/news/brains-for-brains-awardee-2022/)
+---------
+Brains for Brains Young Researcher Award, Bernstein Network Computational Neuroscience
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Deeply pleased and honored to receive this award ! Can&#39;t wait to present our work at the <a href="https://twitter.com/hashtag/BernsteinConference?src=hash&amp;ref_src=twsrc%5Etfw">#BernsteinConference</a>. <br>Thanks <a href="https://twitter.com/BathellierL?ref_src=twsrc%5Etfw">@BathellierL</a>, <a href="https://twitter.com/institutpasteur?ref_src=twsrc%5Etfw">@institutpasteur</a> for your support 🧠 <a href="https://t.co/7ofJXFNkDp">https://t.co/7ofJXFNkDp</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1536414586190143489?ref_src=twsrc%5Etfw">June 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+----------
+
 [Symmetry, Invariance and Neural Representations](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/)
 ---------
 Azeglio & Di Bernardo, <i>Symmetry, Invariance and Neural Representations</i> Bernstein Conference 2022
