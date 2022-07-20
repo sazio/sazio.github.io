@@ -43,6 +43,9 @@ Feel free to [contact me](mailto:simone.azeglio@pasteur.fr) if you are intereste
 [NeurReps Workshop (NeurIPS 2022)](https://www.neurreps.org/)
 ---------
 
+Our workshop on Symmetry and Geometry in Neural Representations has been accepted to @NeurIPSConf 2022! 
+We've put together a lineup of incredible speakers and panelists from 🧠 neuroscience, 🤖 geometric deep learning, and 🌐 geometric statistics.
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Glad to be part of the organizing committee of this <a href="https://twitter.com/NeurIPSConf?ref_src=twsrc%5Etfw">@NeurIPSConf</a> workshop! <br><br>Further updates as well as a call for papers are coming soon 👀<br><br>With <a href="https://twitter.com/naturecomputes?ref_src=twsrc%5Etfw">@naturecomputes</a> <a href="https://twitter.com/cashewmake2?ref_src=twsrc%5Etfw">@cashewmake2</a> <a href="https://twitter.com/ari_dibe?ref_src=twsrc%5Etfw">@ari_dibe</a> <a href="https://twitter.com/ninamiolane?ref_src=twsrc%5Etfw">@ninamiolane</a> <a href="https://t.co/VmLEG4DIf7">https://t.co/VmLEG4DIf7</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1545325709840760835?ref_src=twsrc%5Etfw">July 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---------
