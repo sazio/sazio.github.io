@@ -574,7 +574,7 @@ At this point, as the icing on the cake, you can take a look at the final table,
 
 In this article, we have discussed about evaluation metrics that are useful in diagnostic. By running the code throughout each section you should get a more practical sense of each of these metrics. You should be careful in choosing the best metric for some specific problem, in this sense, we hope to have shed light in such a difficult task.
 
-This is the first episode of a series devoted to the applications of *AI* in *Medical Diagnosis*, the story has just begun. In the next one, we’re going to show you how to deal with a dataset and what is *Exploratory Data Analysis* (*EDA*). Since we’re going to deal with x-rays images, it will be necessary to introduce a particular kind of neural network, namely the *Convolutional Neural Network* (**CNN**) architecture.
+This is the first episode of a series devoted to the applications of *AI* in *Medical Diagnosis*, the story has just begun. In the next one, we’re going to show you how to deal with a dataset and what is *Exploratory [Data Analysis](https://www.scaler.com/topics/data-structures/time-complexity-in-data-structure/)* (*EDA*). Since we’re going to deal with x-rays images, it will be necessary to introduce a particular kind of neural network, namely the *Convolutional Neural Network* (**CNN**) architecture.
 > # Take a look at the full implementation of our code here on [Github](https://github.com/MLJCUnito/Datameron/tree/master/DAIgnosis) (and star us if you like our project!)
 
 ### References:
