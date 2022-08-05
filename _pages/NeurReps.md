@@ -19,3 +19,4 @@ The goal of this workshop is to unify the emerging paradigm shifts towards struc
 ### Links 
 
 * [Official Webpage of NeurReps](https://www.neurreps.org)
+* [NeurReps Reading List](https://github.com/neurreps/reading-list/)
