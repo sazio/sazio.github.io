@@ -5,7 +5,7 @@ permalink: /sinr/
 author_profile: true
 ---
  
-Together with Arianna di Bernardo, I'm co-organizing a workshop on the role of symmetry and invariance in neural representations which is going to take place as part of the Bernstein 2022 Conference, in Berlin on September 13 and 14. 
+Together with Arianna Di Bernardo, I'm co-organizing a workshop on the role of symmetry and invariance in neural representations which is going to take place as part of the Bernstein 2022 Conference, in Berlin on September 13 and 14. 
 
 
 ![](../images/BernsteinBanner.jpeg)
