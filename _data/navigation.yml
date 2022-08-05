@@ -3,6 +3,12 @@ main:
 
   #- title: "ICE Reading Group"
   # url: /ice-reading-group/
+  
+  - title: "SINR"
+    url: /sinr/
+    
+  - title: "NeurReps"
+    url: /neurreps/
     
   - title: "Publications"
     url: /publications/
