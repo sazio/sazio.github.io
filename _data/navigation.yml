@@ -10,8 +10,9 @@ main:
   - title: "NeurReps"
     url: /neurreps/
     
-  - title: "Publications"
-    url: /publications/
+  #google scholar will do 
+  #- title: "Publications"
+  #  url: /publications/
 
   - title: "Presentations"
     url: /talks/    
