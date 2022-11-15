@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Simone Azeglio"
   avatar           : "profile.png"
-  bio              : "Research Engineer at the Hearing Institute"
+  bio              : "PhD Candidate at Institut de la Vision & École Normale Supérieure"
   location         : "Paris"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=rTk6DZgAAAAJ&hl=en"
-  email            : "simone.azeglio@pasteur.fr"
+  googlescholar    : "https://scholar.google.com/citations?user=ld9Bs6oAAAAJ&hl=en"
+  email            : "simone.azeglio@inserm.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
