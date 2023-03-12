@@ -41,11 +41,14 @@ Feel free to [contact me](mailto:simone.azeglio@gmail.com) if you are interested
 ## News
 
 
+[3rd Place in Sensorium Competition @NeurIPS 2022](https://sensorium2022.net/home)
+---------
 
-<div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/simoneazeglio maxwidth=500 limit=5 %}
-</div>
+Together with my supervisors: Ulisse Ferrari, Peter Neri and Olivier Marre, I took part in the Sensorium 2022 competition on predicting mice V1 (Primary Visual Cortex) neural activity with deep learning methods. Our team, "IdV_ENS" got 3rd and I had the chance to present our work at NeurIPS 2022 🐭🧠
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/NeurIPS2022?src=hash&amp;ref_src=twsrc%5Etfw">#NeurIPS2022</a> is not over yet ! Today (3.30 pm CST) I&#39;ll give a short online talk on our - w/ Ulisse Ferrari, Peter Neri (<a href="https://twitter.com/lsp_ens?ref_src=twsrc%5Etfw">@lsp_ens</a>) and <a href="https://twitter.com/RetinaGeek?ref_src=twsrc%5Etfw">@RetinaGeek</a> - approach for the Sensorium Competition on modeling mice V1, which allowed us to finish 3rd 🐭 <a href="https://t.co/alNZLgZD4M">https://t.co/alNZLgZD4M</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1600166755481145345?ref_src=twsrc%5Etfw">December 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
 
 [NeurReps Workshop (NeurIPS 2022)](https://www.neurreps.org/)
 ---------
