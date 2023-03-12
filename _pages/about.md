@@ -40,6 +40,13 @@ Feel free to [contact me](mailto:simone.azeglio@gmail.com) if you are interested
 
 ## News
 
+
+
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/simoneazeglio maxwidth=500 limit=5 %}
+</div>
+
+
 [NeurReps Workshop (NeurIPS 2022)](https://www.neurreps.org/)
 ---------
 
