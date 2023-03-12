@@ -17,12 +17,6 @@ Previously, I worked as a Research Engineer in [Brice Bathellier](https://www.ba
 Finally, I am the co-founder and member (ex-president) of a non-profit research organization, the [Machine Learning Journal Club (MLJC)](https://www.mljc.it), which focuses on interdisciplinary applications of Machine and Deep Learning. Through the MLJC, I have worked on scientific machine learning, brain-computer interfaces, and natural language processing, and I'm currently organizing a group on applications of geometric deep learning and the role of symmetries in the learning process. Please feel free to [contact me](mailto:simone.azeglio@gmail.com) if you're interested in any of our MLJC projects or share similar interests.
 
 
-Salut! I am currently a Research Engineer in [Brice Bathellier](https://www.bathellier-lab.org/people/Brice)'s Lab at the [Hearing Institute](https://www.institut-audition.fr/en) (Institut Pasteur) in Paris, working on nonlinear network models for capturing the transformations that occur across the different stages of the auditory system. Previously, I worked as a Research Intern at CERN, under the supervision of [Lorenzo Moneta](https://root.cern/about/team/#Lorenzo%20Moneta), developing data conversion and visualization techniques for the ROOT framework. Before that, I worked on nonlinear models of sequential spatial memory in [André Longtin](https://mysite.science.uottawa.ca/alongtin/)'s  Neurophysics and Nonlinear Dynamics group, at the University of Ottawa, co-supervised by [Leonard Maler](https://www.uottawa.ca/brain/people/maler-leonard) and [Lamberto Rondoni](http://calvino.polito.it/~rondoni/). In the meantime, I completed a M.Sc. in Physics of Complex Systems at the University of Turin. 
-
-
-I'm also a co-founder and president of the [Machine Learning Journal Club (MLJC)](https://www.mljc.it) a non-profit research organization, focused on interdisciplinary applications of Machine and Deep Learning, with an [open-source attitude](https://github.com/MachineLearningJournalClub). 
-
-
 ## News
 
 [3rd Place in Sensorium Competition @NeurIPS 2022](https://sensorium2022.net/home)
