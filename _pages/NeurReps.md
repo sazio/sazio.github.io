@@ -4,7 +4,7 @@ title: "NeurReps"
 permalink: /neurreps/
 author_profile: true
 ---
-Together with [Sophia Sanborn](https://www.sophiasanborn.com/), [Christian Shewmake](https://www.christianshewmake.com/), Arianna Di Bernardo and [Nina Miolane](https://www.ninamiolane.com/), I'm co-organizing the NeurIPS 2022 Workshop on Symmetry and Geometry in Neural Representations (NeurReps 😉)
+Together with [Sophia Sanborn](https://www.sophiasanborn.com/), [Christian Shewmake](https://www.christianshewmake.com/), Arianna Di Bernardo and [Nina Miolane](https://www.ninamiolane.com/), I co-organized the NeurIPS 2022 Workshop on Symmetry and Geometry in Neural Representations (NeurReps 😉)
 
 
 
