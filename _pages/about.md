@@ -16,8 +16,9 @@ Previously, I worked as a Research Engineer in [Brice Bathellier](https://www.ba
 
 Finally, I am the co-founder and member (ex-president) of a non-profit research organization, the [Machine Learning Journal Club (MLJC)](https://www.mljc.it), which focuses on interdisciplinary applications of Machine and Deep Learning. Through the MLJC, I have worked on scientific machine learning, brain-computer interfaces, and natural language processing, and I'm currently organizing a group on applications of geometric deep learning and the role of symmetries in the learning process. Please feel free to [contact me](mailto:simone.azeglio@gmail.com) if you're interested in any of our MLJC projects or share similar interests.
 
+-----------
 
-## News
+# News
 
 [3rd Place in Sensorium Competition @NeurIPS 2022](https://sensorium2022.net/home)
 ---------
