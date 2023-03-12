@@ -16,7 +16,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem 'jekyll-twitter-plugin'
+# gem 'jekyll-twitter-plugin'
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
