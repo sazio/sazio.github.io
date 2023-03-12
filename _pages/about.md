@@ -40,7 +40,6 @@ Feel free to [contact me](mailto:simone.azeglio@gmail.com) if you are interested
 
 ## News
 
-
 [3rd Place in Sensorium Competition @NeurIPS 2022](https://sensorium2022.net/home)
 ---------
 
@@ -50,7 +49,18 @@ Together with my supervisors: Ulisse Ferrari, Peter Neri and Olivier Marre, I to
 
 ---------
 
-[NeurReps Workshop (NeurIPS 2022)](https://www.neurreps.org/)
+[NeurReps: Symmetry and Geometry in Neural Representations is LIVE @NeurIPS 2022](https://www.neurreps.org/schedule)
+---------
+
+Glad that our (together with Sophia Sanborn, Christian Shewmake, Arianna Di Bernardo and Nina Miolan) workshop, Symmetry and Geometry in Neural Representations a.k.a. NeurReps has been a truly enjoyable occasion. 
+If you're interested in following further developments at the intersection of Neuroscience, Deep Learning and Geometry don't hesitate to join our community on [Slack](https://www.neurreps.org/community)
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you&#39;re at <a href="https://twitter.com/hashtag/NeurIPS2022?src=hash&amp;ref_src=twsrc%5Etfw">#NeurIPS2022</a> you can&#39;t miss our workshop ✨ <a href="https://t.co/HsDbqv19ln">https://t.co/HsDbqv19ln</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1598788963690377216?ref_src=twsrc%5Etfw">December 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
+
+[Our Workshop has been accepted @NeurIPS 2022](https://www.neurreps.org/)
 ---------
 
 Our workshop on Symmetry and Geometry in Neural Representations has been accepted to @NeurIPSConf 2022! 
