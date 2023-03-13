@@ -16,6 +16,12 @@ Why does symmetry encoding matter for neuroscience? There exists an intimate rel
 
 It is therefore inevitable that neural representations, as well as the structure and dynamics of neuronal circuits, are affected by the organisational properties dictated by physics. Awareness of this fact and incorporating it in the definition of computational and deep learning models for brain function can allow for more robust learning and provide better generalisation properties. This workshop proposal aims to unify under a common framework, theories and models that consider invariant representations in vision, audition, olfaction, touch, motor control, spatial navigation and memory.
 
+## Schedule 
+
+![](../images/BernsteinSINRSchedule1.png)
+
+![](../images/BernsteinSINRSchedule2.png)
+
 ### Links
 
 * [**Official Bernstein 2022 Workshop Webpage**](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/)
