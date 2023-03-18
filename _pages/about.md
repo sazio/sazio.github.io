@@ -20,6 +20,14 @@ Finally, I am the co-founder and member (ex-president) of a non-profit research 
 
 # News
 
+[NeurReps: Symmetry and Geometry in Neural Representations Proceedings are out 🎉](http://proceedings.mlr.press/v197/)
+--------
+
+It took a while, but finally the proceedings of our (with Sophia Sanborn, Christian Shewmake, Arianna Di Bernardo and Nina Miolane) workshop are out 🎉
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🎉 The wait is over! 🎉 <br>The proceedings for the 2022 NeurIPS Workshop on Symmetry and Geometry in Neural Representations have arrived! Dive into the cutting-edge research and insights on PMLR now! 🧠🔥<a href="https://twitter.com/NeurIPSConf?ref_src=twsrc%5Etfw">@NeurIPSConf</a> <a href="https://twitter.com/neur_reps?ref_src=twsrc%5Etfw">@neur_reps</a> <a href="https://t.co/Nrs0bKpboB">https://t.co/Nrs0bKpboB</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1636809810120261633?ref_src=twsrc%5Etfw">March 17, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
 [3rd Place in Sensorium Competition @NeurIPS 2022](https://sensorium2022.net/home)
 ---------
 
