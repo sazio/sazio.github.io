@@ -20,7 +20,7 @@ Finally, I am the co-founder and member (ex-president) of a non-profit research 
 
 # News
 
-[NeurReps: Symmetry and Geometry in Neural Representations Proceedings are out 🎉](http://proceedings.mlr.press/v197/)
+[NeurReps Proceedings are out 🎉](http://proceedings.mlr.press/v197/)
 --------
 
 It took a while, but finally the proceedings of our (with Sophia Sanborn, Christian Shewmake, Arianna Di Bernardo and Nina Miolane) workshop are out 🎉
