@@ -21,7 +21,6 @@ Finally, I am the co-founder and member (ex-president) of a non-profit research 
 # News
 
 [NeurReps Proceedings are out 🎉](http://proceedings.mlr.press/v197/)
---------
 
 It took a while, but finally the proceedings of our (with Sophia Sanborn, Christian Shewmake, Arianna Di Bernardo and Nina Miolane) workshop are out 🎉
 
@@ -29,7 +28,6 @@ It took a while, but finally the proceedings of our (with Sophia Sanborn, Christ
 
 ---------
 [3rd Place in Sensorium Competition @NeurIPS 2022](https://sensorium2022.net/home)
----------
 
 Together with my supervisors: Ulisse Ferrari, Peter Neri and Olivier Marre, I took part in the Sensorium 2022 competition on predicting mice V1 (Primary Visual Cortex) neural activity with deep learning methods. Our team, "IdV_ENS" got 3rd and I had the chance to present our work at NeurIPS 2022 🐭🧠
 
@@ -38,7 +36,6 @@ Together with my supervisors: Ulisse Ferrari, Peter Neri and Olivier Marre, I to
 ---------
 
 [NeurReps: Symmetry and Geometry in Neural Representations is LIVE @NeurIPS 2022](https://www.neurreps.org/schedule)
----------
 
 Glad that our (together with Sophia Sanborn, Christian Shewmake, Arianna Di Bernardo and Nina Miolan) workshop, Symmetry and Geometry in Neural Representations a.k.a. NeurReps has been a truly enjoyable occasion. 
 If you're interested in following further developments at the intersection of Neuroscience, Deep Learning and Geometry don't hesitate to join our community on [Slack](https://www.neurreps.org/community)
@@ -49,7 +46,6 @@ If you're interested in following further developments at the intersection of Ne
 ---------
 
 [Our Workshop has been accepted @NeurIPS 2022](https://www.neurreps.org/)
----------
 
 Our workshop on Symmetry and Geometry in Neural Representations has been accepted to @NeurIPSConf 2022! 
 We've put together a lineup of incredible speakers and panelists from 🧠 neuroscience, 🤖 geometric deep learning, and 🌐 geometric statistics.
@@ -59,7 +55,7 @@ We've put together a lineup of incredible speakers and panelists from 🧠 neuro
 ---------
 
 [Brains for Brains Award 2022](https://bernstein-network.de/en/newsroom/news/brains-for-brains-awardee-2022/)
----------
+
 Since 2010, the Bernstein Network Computational Neuroscience presents the Brains for Brains Award, which recognizes the special achievements of young scientists who have shown their outstanding potential at a very early career stage – even before starting their doctoral studies. It is one of two prizes awarded bi-yearly by the Bernstein Network. This award aims to attract young international researchers to Germany.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Deeply pleased and honored to receive this award ! Can&#39;t wait to present our work at the <a href="https://twitter.com/hashtag/BernsteinConference?src=hash&amp;ref_src=twsrc%5Etfw">#BernsteinConference</a>. <br>Thanks <a href="https://twitter.com/BathellierL?ref_src=twsrc%5Etfw">@BathellierL</a>, <a href="https://twitter.com/institutpasteur?ref_src=twsrc%5Etfw">@institutpasteur</a> for your support 🧠 <a href="https://t.co/7ofJXFNkDp">https://t.co/7ofJXFNkDp</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1536414586190143489?ref_src=twsrc%5Etfw">June 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -67,7 +63,7 @@ Since 2010, the Bernstein Network Computational Neuroscience presents the Brains
 ----------
 
 [Symmetry, Invariance and Neural Representations](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/)
----------
+
 Azeglio & Di Bernardo, <i>Symmetry, Invariance and Neural Representations</i> Bernstein Conference 2022
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s official! <a href="https://twitter.com/BernsteinNeuro?ref_src=twsrc%5Etfw">@BernsteinNeuro</a> accepted our - with <a href="https://twitter.com/ari_dibe?ref_src=twsrc%5Etfw">@ari_dibe</a> - workshop proposal 🧠 <br><br>In &quot;Symmetry, Invariance and Neural Representations&quot; we will explore the intimate relationship between the physical world and neural representations. <br><br>Join our speakers in this experience! <a href="https://t.co/eOisKkGGum">pic.twitter.com/eOisKkGGum</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1523036342565105664?ref_src=twsrc%5Etfw">May 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -76,7 +72,7 @@ Azeglio & Di Bernardo, <i>Symmetry, Invariance and Neural Representations</i> Be
 
 
 [Improving Neural Predictivity in the Visual Cortex with Gated Recurrent Connections](https://openreview.net/references/pdf?id=HbNa-jRWf5)
----------
+
 Azeglio, Poetto, Savant-Aira, Nurisso, <i>Improving Neural Predictivity in the Visual Cortex with Gated Recurrent Connections </i> Brainscore Workshop - Cosyne 2022
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/cosyne2022?src=hash&amp;ref_src=twsrc%5Etfw">#cosyne2022</a> was awesome! I had the pleasure to present our work at the <a href="https://twitter.com/brain_score?ref_src=twsrc%5Etfw">@brain_score</a> workshop(<a href="https://t.co/VFa7r7YvZy">https://t.co/VFa7r7YvZy</a>), as part of the selected models submitted to the Brain-Score competition. TLDR: We employed a Gated Recurrent Convolutional Network w/ some fancy augmentation <a href="https://t.co/Iv6sSdpSRo">pic.twitter.com/Iv6sSdpSRo</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1507419565013282821?ref_src=twsrc%5Etfw">March 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
