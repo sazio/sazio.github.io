@@ -20,7 +20,7 @@ Finally, I am the co-founder and member (ex-president) of a non-profit research 
 
 # News
 
-### [NeurReps Proceedings are out 🎉](http://proceedings.mlr.press/v197/)
+## [NeurReps Proceedings are out 🎉](http://proceedings.mlr.press/v197/)
 
 It took a while, but finally the proceedings of our (with Sophia Sanborn, Christian Shewmake, Arianna Di Bernardo and Nina Miolane) workshop are out 🎉
 
@@ -28,7 +28,7 @@ It took a while, but finally the proceedings of our (with Sophia Sanborn, Christ
 
 ---------
 
-### [3rd Place in Sensorium Competition @NeurIPS 2022](https://sensorium2022.net/home)
+## [3rd Place in Sensorium Competition @NeurIPS 2022](https://sensorium2022.net/home)
 
 Together with my supervisors: Ulisse Ferrari, Peter Neri and Olivier Marre, I took part in the Sensorium 2022 competition on predicting mice V1 (Primary Visual Cortex) neural activity with deep learning methods. Our team, "IdV_ENS" got 3rd and I had the chance to present our work at NeurIPS 2022 🐭🧠
 
@@ -36,7 +36,7 @@ Together with my supervisors: Ulisse Ferrari, Peter Neri and Olivier Marre, I to
 
 ---------
 
-### [NeurReps: Symmetry and Geometry in Neural Representations is LIVE @NeurIPS 2022](https://www.neurreps.org/schedule)
+## [NeurReps: Symmetry and Geometry in Neural Representations is LIVE @NeurIPS 2022](https://www.neurreps.org/schedule)
 
 Glad that our (together with Sophia Sanborn, Christian Shewmake, Arianna Di Bernardo and Nina Miolan) workshop, Symmetry and Geometry in Neural Representations a.k.a. NeurReps has been a truly enjoyable occasion. 
 If you're interested in following further developments at the intersection of Neuroscience, Deep Learning and Geometry don't hesitate to join our community on [Slack](https://www.neurreps.org/community)
@@ -46,7 +46,7 @@ If you're interested in following further developments at the intersection of Ne
 
 ---------
 
-### [Our Workshop has been accepted @NeurIPS 2022](https://www.neurreps.org/)
+## [Our Workshop has been accepted @NeurIPS 2022](https://www.neurreps.org/)
 
 Our workshop on Symmetry and Geometry in Neural Representations has been accepted to @NeurIPSConf 2022! 
 We've put together a lineup of incredible speakers and panelists from 🧠 neuroscience, 🤖 geometric deep learning, and 🌐 geometric statistics.
@@ -55,7 +55,7 @@ We've put together a lineup of incredible speakers and panelists from 🧠 neuro
 
 ---------
 
-### [Brains for Brains Award 2022](https://bernstein-network.de/en/newsroom/news/brains-for-brains-awardee-2022/)
+## [Brains for Brains Award 2022](https://bernstein-network.de/en/newsroom/news/brains-for-brains-awardee-2022/)
 
 Since 2010, the Bernstein Network Computational Neuroscience presents the Brains for Brains Award, which recognizes the special achievements of young scientists who have shown their outstanding potential at a very early career stage – even before starting their doctoral studies. It is one of two prizes awarded bi-yearly by the Bernstein Network. This award aims to attract young international researchers to Germany.
 
@@ -63,7 +63,7 @@ Since 2010, the Bernstein Network Computational Neuroscience presents the Brains
 
 ----------
 
-### [Symmetry, Invariance and Neural Representations](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/)
+## [Symmetry, Invariance and Neural Representations](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/)
 
 Azeglio & Di Bernardo, <i>Symmetry, Invariance and Neural Representations</i> Bernstein Conference 2022
 
@@ -71,7 +71,7 @@ Azeglio & Di Bernardo, <i>Symmetry, Invariance and Neural Representations</i> Be
 
 ----------
 
-### [Improving Neural Predictivity in the Visual Cortex with Gated Recurrent Connections](https://openreview.net/references/pdf?id=HbNa-jRWf5)
+## [Improving Neural Predictivity in the Visual Cortex with Gated Recurrent Connections](https://openreview.net/references/pdf?id=HbNa-jRWf5)
 
 Azeglio, Poetto, Savant-Aira, Nurisso, <i>Improving Neural Predictivity in the Visual Cortex with Gated Recurrent Connections </i> Brainscore Workshop - Cosyne 2022
 
