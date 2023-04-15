@@ -27,4 +27,4 @@ It is therefore inevitable that neural representations, as well as the structure
 
 ### Links
 
-* [**Official Bernstein 2022 Workshop Webpage**](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/)
+* [**Official Bernstein 2022 Workshop Webpage**](https://bernstein-network.de/bernstein-conference-interim/program/satellite-workshops/symmetry-invariance-and-neural-representations/)
