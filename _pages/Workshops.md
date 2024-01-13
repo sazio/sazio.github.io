@@ -7,7 +7,7 @@ author_profile: true
 
 In the past few years, I've been lucky enough to co-organize a few workshops spanning computational neuroscience and deep learning. In brief, I'm interested in exploring structured methods with applications in neuroscience (sensory systems, mainly vision). 
 
-In particular, The NeurIPS and Bernstein workshops are community efforts, together with Sophia Sanborn, Christian Shewmake, Arianna Di Bernardo and Nina Miolane to bridge methods in algebra, geometry and topology together with (geometric) deep learning and computational neuroscience. While, the CoSyNe workshop, is a joint contribution with, Samuele Virgili and Gabriel Mahuas, in understanding the representational framework for natural stimuli. 
+In particular, The NeurIPS and Bernstein workshops are community efforts, together with [Sophia Sanborn](https://www.sophiasanborn.com/), [Christian Shewmake](https://www.christianshewmake.com/), [Arianna Di Bernardo](https://sites.google.com/view/arianna-di-bernardo/home-page) and [Nina Miolane](https://www.ninamiolane.com/) to bridge methods in algebra, geometry and topology together with (geometric) deep learning and computational neuroscience. While, the CoSyNe workshop, is a joint contribution with [Samuele Virgili](https://twitter.com/sam_virgili_) and [Gabriel Mahuas](https://twitter.com/gabrielmahuas), in understanding the representational framework for natural stimuli. 
 
 
 ### @ NeurIPS
