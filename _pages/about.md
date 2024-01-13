@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Key Interests: Representation Learning, Vision, Biological Inspiration & Inductive Bias, Equivariant Representations**
+**Key Interests: Representation Learning, Vision, Biological Inspiration & Inductive Bias, Equivariant Representations, Alignment**
 
 Hello! I'm currently a PhD Candidate at Sorbonne University's Vision Institute and Ecole Normale Superieure in Paris, under the supervision of [Ulisse Ferrari](https://scholar.google.it/citations?user=89XheA0AAAAJ&hl=it), [Olivier Marre](http://oliviermarre.free.fr/) and [Peter Neri](https://sites.google.com/site/neripeter/). My research interests revolve around uncovering the principles and symmetries that enable invariant and stable representations, with a focus on understanding biological learning, particularly in the context of vision. Specifically, in my main project, I am investigating the role of higher-order spatiotemporal correlations and how those can underlie invariance/equivariance and selectivity properties of the visual system 🧠. 
 
