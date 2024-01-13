@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "NeurReps"
+title: "NeurReps2022"
 permalink: /neurreps2022/
 author_profile: true
 ---
