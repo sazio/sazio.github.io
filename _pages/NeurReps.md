@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "NeurReps"
-permalink: /neurreps/
+permalink: /workshops/neurreps/
 author_profile: true
 ---
 Together with [Sophia Sanborn](https://www.sophiasanborn.com/), [Christian Shewmake](https://www.christianshewmake.com/), and [Nina Miolane](https://www.ninamiolane.com/), I co-organized the 2nd edition of our Workshop on Symmetry and Geometry in Neural Representations (NeurReps 😉), at NeurIPS 2023. 

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "SINR: Symmetry, Invariance and Neural Representations"
-permalink: /sinr/
+permalink: /workshops/sinr/
 author_profile: true
 ---
  

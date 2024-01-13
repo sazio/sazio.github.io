@@ -3,12 +3,19 @@ main:
 
   #- title: "ICE Reading Group"
   # url: /ice-reading-group/
+
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Workshops"
+    url: /workshops/
   
-  - title: "SINR"
-    url: /sinr/
+ # - title: "SINR"
+ #   url: /sinr/
     
-  - title: "NeurReps"
-    url: /neurreps/
+ # - title: "NeurReps"
+ #   url: /neurreps/
     
   #google scholar will do 
   #- title: "Publications"
