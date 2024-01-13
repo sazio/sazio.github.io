@@ -20,6 +20,27 @@ Finally, I am the co-founder and member (ex-president) of a non-profit research 
 
 # News
 
+
+## [NeurReps @NeurIPS 2023 is taking place!](https://www.neurreps.org/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Join us this Saturday at <a href="https://twitter.com/hashtag/NeurIPS2023?src=hash&amp;ref_src=twsrc%5Etfw">#NeurIPS2023</a> 🧠🤯 <a href="https://t.co/STwJOlR11H">https://t.co/STwJOlR11H</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1734298173273788667?ref_src=twsrc%5Etfw">December 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+## [NeurReps submission deadline gets extended!](https://www.neurreps.org/call-for-papers)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NeurReps deadline got extended to Friday Oct 6 🥳 Some more time for your submissions! <a href="https://t.co/5YHQrqsTPh">https://t.co/5YHQrqsTPh</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1709861158419583455?ref_src=twsrc%5Etfw">October 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## [Group Theory in Neuroscience @ Symmetry, Invariance and Neural Representations](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/neural-representations/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NeurReps deadline got extended to Friday Oct 6 🥳 Some more time for your submissions! <a href="https://t.co/5YHQrqsTPh">https://t.co/5YHQrqsTPh</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1709861158419583455?ref_src=twsrc%5Etfw">October 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## [Symmetry, Invariance and Neural Representations is happening again @ Bernstein 2023](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/neural-representations/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📢 Exciting News! Join us at the 𝐒𝐞𝐜𝐨𝐧𝐝 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩 𝐨𝐧 𝐒𝐲𝐦𝐦𝐞𝐭𝐫𝐲, 𝐈𝐧𝐯𝐚𝐫𝐢𝐚𝐧𝐜𝐞, 𝐚𝐧𝐝 𝐍𝐞𝐮𝐫𝐚𝐥 𝐑𝐞𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧𝐬, co-organized by <a href="https://twitter.com/ari_dibe?ref_src=twsrc%5Etfw">@ari_dibe</a> and myself, at <a href="https://twitter.com/hashtag/BernsteinConference?src=hash&amp;ref_src=twsrc%5Etfw">#BernsteinConference</a> 2023. 🎉 <a href="https://t.co/qhiFMOf1mD">pic.twitter.com/qhiFMOf1mD</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1687456976526077957?ref_src=twsrc%5Etfw">August 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## [Art and AI's Video Representations @ Sorbonne](https://www.youtube.com/watch?v=2qsx2bEztho&ab_channel=SorbonneUniversit%C3%A9)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What can we learn if we try to reverse engineer 3D Convolutional Neural Networks? A sneak peek into a small part of Kaspar Ravel&#39;s exposition: &quot;quelques formes discretes&quot; at <a href="https://twitter.com/Sorbonne_Univ_?ref_src=twsrc%5Etfw">@Sorbonne_Univ_</a> 👁️🖼️ <br>A short 🧵 on this joint work <a href="https://t.co/ovKPfIjEln">https://t.co/ovKPfIjEln</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1663585072673325057?ref_src=twsrc%5Etfw">May 30, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## [NeurReps Proceedings are out 🎉](http://proceedings.mlr.press/v197/)
 
 It took a while, but finally the proceedings of our (with Sophia Sanborn, Christian Shewmake, Arianna Di Bernardo and Nina Miolane) workshop are out 🎉
