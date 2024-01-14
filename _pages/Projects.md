@@ -13,11 +13,15 @@ Under Construction !
 
 * 
 
+### Nonlinear Receptive Field Estimation in the Retina
+
+* 
 
 ### Spatiotemporal Gaussian Processes for Predicting Retinal Neural Responses
 
 * 
 
-### Nonlinear Receptive Field Estimation in the Retina
+### Towards end-to-end cell-typing in large-scale electrophysiological recordings
 
 * 
+
