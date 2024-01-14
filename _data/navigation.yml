@@ -18,8 +18,8 @@ main:
  #   url: /neurreps/
     
   #google scholar will do 
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=ld9Bs6oAAAAJ&hl=it
 
   #- title: "Presentations"
   #  url: /talks/    
