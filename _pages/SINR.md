@@ -5,26 +5,19 @@ permalink: /workshops/sinr/
 author_profile: true
 ---
  
-Together with Arianna Di Bernardo, I co-organized a workshop on the role of symmetry and invariance in neural representations which took place as part of the Bernstein 2022 Conference, in Berlin on September 13 and 14. 
-
-
-![](../images/BernsteinBanner.jpeg)
+Together with Arianna Di Bernardo, I co-organized a 2nd edition of our workshop on the role of symmetry and invariance in neural representations which took place as part of the Bernstein 2023 Conference, in Berlin on September 26 and 27. 
 
 ## Abstract
 
-Why does symmetry encoding matter for neuroscience? There exists an intimate relationship between how natural phenomena evolve in time and how we represent the world by measuring it with our senses. On the one hand, the best mathematical model of the world we possess, the physical laws, can be characterised on the basis of invariants, conserved quantities (Noether’s Theorem). On the other hand, in order to perceive and thus interact with the external environment, we need to create robust neural representations from the “data” collected through sensory processing.
-
-It is therefore inevitable that neural representations, as well as the structure and dynamics of neuronal circuits, are affected by the organisational properties dictated by physics. Awareness of this fact and incorporating it in the definition of computational and deep learning models for brain function can allow for more robust learning and provide better generalisation properties. This workshop proposal aims to unify under a common framework, theories and models that consider invariant representations in vision, audition, olfaction, touch, motor control, spatial navigation and memory.
-
+The second workshop on symmetry, invariance, and nneural representations at the Bernstein Conference 2023 seeks to encourage interdisciplinary research at the intersection of mathematics and neuroscience. The workshop will emphasize the significance of symmetries in the structure and function of the brain and present the latest research on neural population geometry, neural manifolds, embeddings of neural data, and invariant/equivariant neural representations in both biological and artificial networks. By incorporating geometric and topological features, along with symmetry, into the design of neural architectures, researchers can develop more interpretable and trainable models, leading to a more profound comprehension of the brain and its complexities. This ongoing research area has the potential to transform our understanding of neural computation and information processing, opening doors to more robust and efficient neural models. Building on the feedback and interaction with peers from the previous year, the second edition of this workshop will bring together researchers and students from various fields to promote cooperation and push forward this exciting research area.
 
 -----------
-## Schedule 
+## Speakers 
 
-![](../images/BernsteinSINRSchedule1.png)
------------
-![](../images/BernsteinSINRSchedule2.png)
+![](../images/SINR2023.png)
+
 ------------
 
 ### Links
 
-* [**Official Bernstein 2022 Workshop Webpage**](https://bernstein-network.de/bernstein-conference-interim/program/satellite-workshops/symmetry-invariance-and-neural-representations/)
+* [**Official Bernstein 2022 Workshop Webpage**](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/)
