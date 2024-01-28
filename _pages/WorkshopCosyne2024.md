@@ -19,5 +19,7 @@ By integrating theory, machine learning, and experimental data, this interdiscip
 
 ### Links 
 
+* [Sharpening Our Sight Webpage](https://sites.google.com/view/cosyne2024-sos/home)
+
 * [CoSyNe 2024 Workshops List](https://www.cosyne.org/workshops-program-2024)
 
