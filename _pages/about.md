@@ -20,6 +20,17 @@ Finally, I am the co-founder and member (ex-president) of a non-profit research 
 
 # News
 
+## [SoS workshop @Cosyne2024 Confirmed Speaker's List](https://sites.google.com/view/cosyne2024-sos/home)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">CoSyNe 2024 is fast approaching ! Are you interested in vision neuroscience? 🧠 👁️ <br>Then join us on March 2 in Cascais, Portugal 🇵🇹 <a href="https://t.co/J3ZbIfoKbO">https://t.co/J3ZbIfoKbO</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1758481297557643519?ref_src=twsrc%5Etfw">February 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+## [SoS workshop @Cosyne2024 is taking place](https://sites.google.com/view/cosyne2024-sos/home)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Excited about <a href="https://twitter.com/hashtag/VisionNeuroscience?src=hash&amp;ref_src=twsrc%5Etfw">#VisionNeuroscience</a> ? Join us at <a href="https://twitter.com/hashtag/CoSyNe2024?src=hash&amp;ref_src=twsrc%5Etfw">#CoSyNe2024</a> in Cascais, Portugal on March 5th! Dive into &quot;Sharpening Our Sight&quot; - a workshop on efficient neural representations &amp; active vision. 🔍🧠<a href="https://t.co/hlaEBv7mt2">https://t.co/hlaEBv7mt2</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1752399508607021178?ref_src=twsrc%5Etfw">January 30, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 ## [NeurReps @NeurIPS 2023 is taking place!](https://www.neurreps.org/)
 
