@@ -53,3 +53,9 @@ author_profile: true
 * Estimating the Surround of Ganglion Cells in Large-Scale Recordings. [see Bernstein 2023 Poster](https://abstracts.g-node.org/conference/BC23/abstracts#/uuid/fba85980-a2a9-4c22-a584-979b2634eeab)
   * Characterized center-surround receptive field properties in retinal ganglion cells
   * Developed methods for accurate estimation in large-scale multi-electrode array recordings
+
+
+### Visual detection of elementary image features during natural behaviour 
+Work led by Jun Yang at ENS, Paris. My contribution is essentially on the DL part. Submitted to ECVP 2025
+
+*  Used deep neural networks to predict human perceptual decisions from trial-by-trial judgments, demonstrating that both local feature analysis and global scene context contribute equally to visual decision-making in naturalistic environments
