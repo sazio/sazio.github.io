@@ -12,6 +12,9 @@ In particular, The NeurIPS and Bernstein workshops are community efforts, togeth
 
 ### @ NeurIPS
 
+* [3rd Edition of Symmetry and Geometry  in
+Neural Representations (NeurReps) @ NeurIPS 2024](https://www.neurreps.org/)
+
 * [2nd Edition of Symmetry and Geometry  in
 Neural Representations (NeurReps) @ NeurIPS 2023](https://sazio.github.io/workshops/neurreps/)
 
