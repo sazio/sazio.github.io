@@ -25,7 +25,6 @@ author_profile: true
 
 * [Decomposing stimulus-specific sensory neural information via diffusion models](https://arxiv.org/abs/2505.11309) - Submitted to NeurIPS 2025
   * Established an axiomatic framework for pixel-wise and feature-wise information decomposition using score functions from diffusion models
-  * Developed a novel plug-in conditioning method that eliminates the need for model retraining, making the approach computationally tractable for high-dimensional visual stimuli
 
 
 ### Equivariant Architectures for Visual Processing
