@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Research Projects
-
 ### Higher-Order Spatiotemporal Correlations
 
 * [Convolution goes higher-order: a biologically inspired mechanism empowers image classification](https://arxiv.org/abs/2412.06740) - Submitted to NeurIPS 2025
@@ -17,15 +15,7 @@ author_profile: true
   * Extended the higher-order convolution framework to neural response prediction in the retina
   * Showed improved predictive performance while maintaining model interpretability
 
-### Equivariant Architectures for Visual Processing
 
-* Scale-Equivariant Networks for Neural Response Prediction - In Progress
-  * Adapted Scale-Equivariant Steerable Networks for neural response prediction to naturalistic video stimuli
-  * Achieved equivalent or superior performance using only 16k parameters, compared to conventional CNNs requiring over 100k parameters (84% reduction)
-
-* Velocity-Equivariant Video Understanding - Preliminary Results
-  * Developing a unified spatiotemporal equivariance framework that maintains parameter efficiency while enhancing performance on video understanding tasks
-  * Validating preliminary results on dynamic stimuli
 
 ### Information Decomposition and Generative Models
 
@@ -37,11 +27,22 @@ author_profile: true
   * Established an axiomatic framework for pixel-wise and feature-wise information decomposition using score functions from diffusion models
   * Developed a novel plug-in conditioning method that eliminates the need for model retraining, making the approach computationally tractable for high-dimensional visual stimuli
 
+
+### Equivariant Architectures for Visual Processing
+
+* Scale-Equivariant Networks for Neural Response Prediction - In Progress
+  * Adapted Scale-Equivariant Steerable Networks for neural response prediction to naturalistic video stimuli
+  * Achieved equivalent or superior performance using only 16k parameters, compared to conventional CNNs requiring over 100k parameters (84% reduction)
+
+* Velocity-Equivariant Video Understanding - Preliminary Results
+  * Developing a unified spatiotemporal equivariance framework that maintains parameter efficiency while enhancing performance on video understanding tasks
+  * Validating preliminary results on dynamic stimuli
+
 ### Spatiotemporal Gaussian Processes for Predicting Retinal Neural Responses
 
 * Scalable gaussian process inference of neural responses to movies [Accepted Poster at CoSyNe 2023]
   * Developed a scalable Gaussian process framework for modeling neural responses to naturalistic movie stimuli
-  * Demonstrated efficient inference techniques that maintain biological plausibility
+  * Achieved results comparable with SOTA CNN models 
 
 ### Functional Cell-typing in large-scale electrophysiological recordings
 
