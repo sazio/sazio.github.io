@@ -8,13 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-**Key Interests: Representation Learning, Vision, Biological Inspiration & Inductive Bias, Equivariant Representations, Alignment**
+**Key Interests: Representation Learning, Vision, Biological Inspiration & Inductive Bias, Equivariant Representations, Generative Models, Information Theory, Alignment**
 
-Hello! I'm currently a PhD Candidate at Sorbonne University's Vision Institute and Ecole Normale Superieure in Paris, under the supervision of [Ulisse Ferrari](https://scholar.google.it/citations?user=89XheA0AAAAJ&hl=it), [Olivier Marre](http://oliviermarre.free.fr/) and [Peter Neri](https://sites.google.com/site/neripeter/). My research interests revolve around uncovering the principles and symmetries that enable invariant and stable representations, with a focus on understanding biological learning, particularly in the context of vision. Specifically, in my main project, I am investigating the role of higher-order spatiotemporal correlations and how those can underlie invariance/equivariance and selectivity properties of the visual system 🧠. 
+Hello! I'm currently a PhD Candidate at Sorbonne University's Vision Institute and École Normale Supérieure in Paris, under the supervision of [Ulisse Ferrari](https://scholar.google.it/citations?user=89XheA0AAAAJ&hl=it), [Peter Neri](https://sites.google.com/site/neripeter/) and [Olivier Marre](http://oliviermarre.free.fr/). 
 
-Previously, I worked as a Research Engineer in [Brice Bathellier](https://www.bathellier-lab.org/people/Brice)'s Lab at the [Hearing Institute](https://www.institut-audition.fr/en) (Institut Pasteur), focusing on nonlinear network models for the auditory system. I also spent a few months working at CERN (with [Lorenzo Moneta](https://root.cern/about/team/#Lorenzo%20Moneta)) and on nonlinear models of spatial memory at the University of Ottawa, under the supervision of [André Longtin](https://mysite.science.uottawa.ca/alongtin/) and [Leonard Maler](https://www.uottawa.ca/brain/people/maler-leonard); my master thesis is available [here](/files/Simone_Azeglio_Master_Thesis.pdf).
+My research bridges computational neuroscience and machine learning by formalizing key information processing principles from biological vision into three complementary frameworks:
 
-Finally, I am the co-founder and member (ex-president) of a non-profit research organization, the [Machine Learning Journal Club (MLJC)](https://www.mljc.it), which focuses on interdisciplinary applications of Machine and Deep Learning. Through the MLJC, I have worked on scientific machine learning, brain-computer interfaces, and natural language processing, and I'm currently organizing a group on applications of geometric deep learning and the role of symmetries in the learning process. Please feel free to [contact me](mailto:simone.azeglio@gmail.com) if you're interested in any of our MLJC projects or share similar interests.
+1. **Statistical principles** of higher-order correlations in natural scenes and their processing by visual circuits, enabling more expressive feature extraction beyond standard convolutional approaches
+   
+2. **Geometric principles** of visual processing, particularly equivariance to transformations like scale and velocity, which provide powerful inductive biases for robust perception
+
+3. **Information-theoretic analysis and manifold structure** of visual representations, enabling precise decomposition of stimulus features that contribute to perception and neural encoding
+
+
+Previously, I worked as a Research Engineer in [Brice Bathellier](https://www.bathellier-lab.org/people/Brice)'s Lab at the [Hearing Institute](https://www.institut-audition.fr/en) (Institut Pasteur), developing activity-driven frameworks for the auditory pathway. I also spent time as a research intern at the Flatiron Institute (Simons Foundation) working on Bayesian inference and deep learning models for image and video encoding with [Alex Williams](https://alexhwilliams.info/), and gained experience on ML at CERN (with [Lorenzo Moneta](https://root.cern/about/team/#Lorenzo%20Moneta)) and on nonlinear models of spatial memory at the University of Ottawa with [André Longtin](https://mysite.science.uottawa.ca/alongtin/) and [Leonard Maler](https://www.uottawa.ca/brain/people/maler-leonard).
+
+I've organized workshops at major conferences including the ["Symmetry and Geometry in Neural Representations" workshop](https://www.neurreps.org/) at NeurIPS (2022-2023-2024), the ["Symmetry, Invariance and Neural Representations Workshop"](https://sazio.github.io/workshops/sinr/) at the Bernstein Conference (2022-2023), and the ["Sharpening Our Sight Workshop"](https://sites.google.com/view/cosyne2024-sos/home) at Cosyne 2024.
+
+I'm also the co-founder and member (ex-president) of the [Machine Learning Journal Club (MLJC)](https://www.mljc.it), a non-profit research organization focusing on interdisciplinary applications of Machine Learning (Scientific ML, Brain-Computer Interfaces and Natural Language Processing). Please feel free to [contact me](mailto:simone.azeglio@gmail.com) if you're interested in any of these projects or share similar research interests.
 
 -----------
 
