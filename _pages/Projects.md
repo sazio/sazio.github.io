@@ -40,13 +40,13 @@ author_profile: true
 
 ### Spatiotemporal Gaussian Processes for Predicting Retinal Neural Responses
 
-* Scalable gaussian process inference of neural responses to movies [Accepted Poster at CoSyNe 2023]
+* Scalable gaussian process inference of neural responses to movies [Accepted Poster at CoSyNe 2023](https://sazio.github.io/files/3D_GP_Cosyne2023.pdf)
   * Developed a scalable Gaussian process framework for modeling neural responses to naturalistic movie stimuli
   * Achieved results comparable with SOTA CNN models 
 
 ### Functional Cell-typing in large-scale electrophysiological recordings
 
-* Towards end-to-end cell-typing in large-scale electrophysiological recordings [Accepted Poster at CoSyNe 2023]
+* Towards end-to-end cell-typing in large-scale electrophysiological recordings [Accepted Poster at CoSyNe 2023](https://sazio.github.io/files/MSF_Abstract_Cosyne2023.pdf)
   * Created an end-to-end framework for automated identification of cell types in large-scale neural recordings
   * Leveraged functional response properties to classify different neuronal cell types
 
