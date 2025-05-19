@@ -34,7 +34,7 @@ author_profile: true
   * Adapted Scale-Equivariant Steerable Networks for neural response prediction to naturalistic video stimuli
   * Achieved equivalent or superior performance using only 16k parameters, compared to conventional CNNs requiring over 100k parameters (84% reduction)
 
-* Velocity-Equivariant Video Understanding - Preliminary Results
+* Velocity-Equivariant Video Understanding - In Progress
   * Developing a unified spatiotemporal equivariance framework that maintains parameter efficiency while enhancing performance on video understanding tasks
   * Validating preliminary results on dynamic stimuli
 
@@ -56,6 +56,6 @@ author_profile: true
 
 
 ### Visual detection of elementary image features during natural behaviour 
-Work led by Jun Yang at ENS, Paris. My contribution is essentially on the DL part. Submitted to ECVP 2025
 
+* Work led by Jun Yang at ENS, Paris. The project involved a VR experiment and training different DNNs. My contribution is essentially on the DL part. Submitted to ECVP 2025
 *  Used deep neural networks to predict human perceptual decisions from trial-by-trial judgments, demonstrating that both local feature analysis and global scene context contribute equally to visual decision-making in naturalistic environments
