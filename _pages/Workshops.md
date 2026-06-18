@@ -12,6 +12,9 @@ In particular, The NeurIPS and Bernstein workshops are community efforts, togeth
 
 ### @ NeurIPS
 
+* [4th Edition of Symmetry and Geometry  in
+Neural Representations (NeurReps) @ NeurIPS 2025](https://www.neurreps.org/)
+
 * [3rd Edition of Symmetry and Geometry  in
 Neural Representations (NeurReps) @ NeurIPS 2024](https://www.neurreps.org/)
 
@@ -23,6 +26,8 @@ Neural Representations (NeurReps) @ NeurIPS 2022](https://sazio.github.io/worksh
 
 
 ### @ CoSyNe
+
+* Efficient Coding in the Modern Age: Adaptive Representations for Vision across Brains and Machines @ CoSyNe 2026
 
 * [Sharpening our Sight: Advances in Naturalistic Visual Perception through Efficient Representations and Active Search @ CoSyNe 2024](https://sazio.github.io/workshops/cosyne2024/)
 
