@@ -44,7 +44,7 @@ author_profile: true
 
 ### Spatiotemporal Gaussian Processes for Predicting Retinal Neural Responses
 
-* *Scalable gaussian process inference of neural responses to movies* [Accepted Poster at CoSyNe 2024](https://sazio.github.io/files/3D_GP_Cosyne2024.pdf) - Paper in Progress (ICLR 2026)
+* *Scalable gaussian process inference of neural responses to movies* [Accepted Poster at CoSyNe 2024](https://sazio.github.io/files/3D_GP_Cosyne2024.pdf) - Paper in Progress
   * Developed a scalable Gaussian process framework for modeling neural responses to naturalistic movie stimuli
   * Achieved results comparable with SOTA CNN models 
 
