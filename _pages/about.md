@@ -32,6 +32,90 @@ I'm also the co-founder and member (ex-president) of the [Machine Learning Journ
 # News
 
 
+## [Modern Efficient Coding workshop @ CoSyNe 2026](https://x.com/simoneazeglio/status/2032906430097883334)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you&#x27;re around at Cosyne, join us on Monday 16th for our workshop on modern efficient coding 🧠 <a href="https://t.co/z60lzX2Srq">https://t.co/z60lzX2Srq</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/2032906430097883334?ref_src=twsrc%5Etfw">March 14, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
+
+## [CoSyNe 2026 starts — Poster 1-146 on the mouse retina](https://x.com/simoneazeglio/status/2032039903945449961)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So excited that #Cosyne2026 🧠 starts today! Come find us at Poster 1-146, Session 1 tonight (8:30-11:30 PM)<br><br>We&#x27;ll tell you how the mouse retina tracks prey that changes size — specific ganglion cells are scale equivariant!<br><br>w/ @RemiBaroux, P. Neri, U. Ferrari &amp; @RetinaGeek 🧵 <a href="https://t.co/lx066xkw8w">https://t.co/lx066xkw8w</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/2032039903945449961?ref_src=twsrc%5Etfw">March 12, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
+
+## [NeurReps 2025 (4th edition) — that's a wrap](https://x.com/simoneazeglio/status/1998808925509157012)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">4th edition and super happy with the engagement we had ! Great interactions and amazing community at @neur_reps ! <a href="https://t.co/lIQYYGeHZ4">https://t.co/lIQYYGeHZ4</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1998808925509157012?ref_src=twsrc%5Etfw">December 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
+
+## [High-dimensional Rap @ NeurReps 2025](https://x.com/simoneazeglio/status/1998097280868688347)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">High-dimensional Rap @neur_reps 🤯 <a href="https://t.co/6akbqJk7XG">https://t.co/6akbqJk7XG</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1998097280868688347?ref_src=twsrc%5Etfw">December 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
+
+## [NeurReps + Mouse vs AI @ NeurIPS 2025](https://x.com/simoneazeglio/status/1997753182035087686)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Excited for @neur_reps today in Ballroom 6A! <br><br>Also presenting at the Mouse vs AI Competition workshop (room 6C) on Scale Equivariance for Object Tracking - showing how we can use geometric deep learning for building mice-like agents with a neuro flavor 🐭🦗🤖 <a href="https://t.co/UYwuQTozmL">https://t.co/UYwuQTozmL</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1997753182035087686?ref_src=twsrc%5Etfw">December 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
+
+## [NeurReps @ NeurIPS 2025 — join us Sunday](https://x.com/simoneazeglio/status/1997135953056665696)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Join us on Sunday ! 🧠🤯 <a href="https://t.co/Guw9xsFLAr">https://t.co/Guw9xsFLAr</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1997135953056665696?ref_src=twsrc%5Etfw">December 6, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
+
+## [Poster #2005 @ NeurIPS 2025](https://x.com/simoneazeglio/status/1996984512673137038)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Come and chat with me today 11 am - 2pm at poster #2005 🔥 <a href="https://t.co/hHkgf3qFmQ">https://t.co/hHkgf3qFmQ</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1996984512673137038?ref_src=twsrc%5Etfw">December 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
+
+## [What information do neurons encode? Diffusion-model decomposition @ NeurIPS 2025](https://x.com/simoneazeglio/status/1995477602602004760)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🧠 How do neurons encode information? We know HOW MUCH, but what about WHAT information they encode? <br><br>Our new work uses diffusion models to decompose neural information down to individual stimuli &amp; features!<br><br>🎯Spotlight at #NeurIPS2025 🌟📄 <br><br><a href="https://t.co/yX3COrOmQq">https://t.co/yX3COrOmQq</a> <a href="https://t.co/xLkrb6610P">https://t.co/xLkrb6610P</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1995477602602004760?ref_src=twsrc%5Etfw">December 1, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
+
+## [Convolution Goes Higher-Order @ NeurIPS 2025](https://x.com/simoneazeglio/status/1995470640271262137)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🧠🔬 Excited to share our #NeurIPS2025 paper: &quot;Convolution Goes Higher-Order&quot;!<br><br>We asked: Can shallow networks be as expressive as deep ones? Inspired by biological vision, we introduce higher-order convolutions that capture complex image patterns standard CNNs miss.<br><br>🧵👇 <a href="https://t.co/rUgPDYPXza">https://t.co/rUgPDYPXza</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1995470640271262137?ref_src=twsrc%5Etfw">December 1, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
+
+## [The NeurReps 2025 Prize](https://x.com/simoneazeglio/status/1955986743393407455)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🎉 Big news! 🚨<br><br>The NeurReps Prize offers $500 for the best paper in these categories:<br><br>🧠 Neuroscience + Interpretability<br>🤖 Topological + Geometric ML<br>❄️ Symmetry + Equivariance<br><br>Submit by Aug 22 for your chance to win!<br><br>And thanks to @newtheoryai for sponsoring! 🙌 <a href="https://t.co/7ih44WsNm4">https://t.co/7ih44WsNm4</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1955986743393407455?ref_src=twsrc%5Etfw">August 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
+
+## [NeurReps 2025 — submission deadline approaching](https://x.com/simoneazeglio/status/1953387524438544420)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨 The submission deadline is approaching! 🚨<br>Don&#x27;t miss the chance to share your work at NeurReps (@NeurIPSConf 2025).<br>Submit by August 22 🧠 <a href="https://t.co/pVZVtdOHga">https://t.co/pVZVtdOHga</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1953387524438544420?ref_src=twsrc%5Etfw">August 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
+
+## [NeurReps 2025 — Call for Papers open](https://x.com/simoneazeglio/status/1947722728649191621)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨 The NeurReps 2025 Call for Papers is now OPEN! 🚨<br>Submit your contributions by August 22. <a href="https://t.co/dHT07sO2Cx">https://t.co/dHT07sO2Cx</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1947722728649191621?ref_src=twsrc%5Etfw">July 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
+
+## [NeurReps is back — 4th edition @ NeurIPS 2025](https://x.com/simoneazeglio/status/1943298116469334513)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NeurReps is back for its 4th edition at NeurIPS 2025! <a href="https://t.co/lgqTyDQ4zM">https://t.co/lgqTyDQ4zM</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1943298116469334513?ref_src=twsrc%5Etfw">July 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
+
+## [NeurReps 2025 — join the Program Committee](https://x.com/simoneazeglio/status/1926963009865261143)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NeurReps 2025 is starting to take shape! If you&#x27;re interested in serving in the Program Committee take a look at this form 👇 <a href="https://t.co/2BAVKPOOAb">https://t.co/2BAVKPOOAb</a></p>&mdash; Simone Azeglio (@simoneazeglio) <a href="https://twitter.com/simoneazeglio/status/1926963009865261143?ref_src=twsrc%5Etfw">May 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---------
+
 ## [Happy to Open NeurReps 2024 in Vancouver!](https://www.neurreps.org/about)
 
 
