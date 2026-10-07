@@ -68,7 +68,7 @@ window.SITE = {
       venue: "bioRxiv",
     },
     {
-      year: 2025, selected: true, tag: "information", highlight: "Spotlight · top 3%",
+      year: 2025, selected: true, tag: "information", highlight: "Spotlight",
       title: "Decomposing stimulus-specific sensory neural information via diffusion models",
       authors: "S. Laquitaine*, S. Azeglio*, C. Paris, U. Ferrari, M. Chalk",
       venue: "NeurIPS 2025",
