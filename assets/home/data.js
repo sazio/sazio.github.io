@@ -14,7 +14,7 @@ window.SITE = {
     {
       key: "statistics",
       name: "Statistics",
-      question: "What lies beyond pairwise correlations?",
+      question: "What do neighbouring pixels say together?",
       title: "Higher-order structure in natural scenes",
       body:
         "Natural images carry structure that pairwise statistics miss, and retinal circuits pick it up through multiplicative interactions between their inputs. Building the same operation into convolutional layers improves image classification and gives better models of retinal responses than standard CNNs.",
@@ -27,10 +27,10 @@ window.SITE = {
     {
       key: "symmetry",
       name: "Symmetry",
-      question: "What should a neural code leave unchanged?",
+      question: "How should a code change when the world does?",
       title: "Equivariance as an inductive bias",
       body:
-        "Prey grows on the retina as a mouse closes in. Specific ganglion cells (OFF-α) encode it in a scale-equivariant way, and scale-steerable networks match CNN predictivity with 84% fewer parameters. I am now extending the idea from scale to velocity.",
+        "A cricket grows on the retina as a mouse closes in. OFF-α ganglion cells, the type prey capture depends on, encode these scenes in a scale-equivariant way, while other OFF types do not. Their weak surround is what makes it work: it is optimal for detecting prey across sizes, and far from what efficient coding would predict.",
       venues: "CoSyNe 2026 · Mouse vs AI, NeurIPS 2025 (3rd place)",
       links: [
         { label: "CoSyNe thread", url: "https://x.com/simoneazeglio/status/2032039903945449961" },
@@ -136,10 +136,10 @@ window.SITE = {
   ],
 
   workshops: [
-    { year: "2026", name: "Efficient Coding in the Modern Age: Adaptive Representations for Vision across Brains and Machines", venue: "CoSyNe" },
+    { year: "2026", name: "Efficient Coding in the Modern Age: Adaptive Representations for Vision across Brains and Machines", venue: "CoSyNe", url: "https://sites.google.com/view/ecma-cosyne/home" },
     { year: "2025", name: "Symmetry and Geometry in Neural Representations (NeurReps), 4th ed.", venue: "NeurIPS", url: "https://proceedings.mlr.press/v282/" },
     { year: "2024", name: "Symmetry and Geometry in Neural Representations (NeurReps), 3rd ed.", venue: "NeurIPS", url: "https://proceedings.mlr.press/v282/" },
-    { year: "2024", name: "Sharpening our Sight: Naturalistic Visual Perception through Efficient Representations and Active Search", venue: "CoSyNe", url: "https://sazio.github.io/workshops/cosyne2024/" },
+    { year: "2024", name: "Sharpening our Sight: Naturalistic Visual Perception through Efficient Representations and Active Search", venue: "CoSyNe", url: "https://sites.google.com/view/cosyne2024-sos/home" },
     { year: "2023", name: "Symmetry and Geometry in Neural Representations (NeurReps), 2nd ed.", venue: "NeurIPS", url: "https://sazio.github.io/workshops/neurreps/" },
     { year: "2023", name: "Symmetry, Invariance and Neural Representations, 2nd ed.", venue: "Bernstein", url: "https://sazio.github.io/workshops/sinr/" },
     { year: "2022", name: "Symmetry and Geometry in Neural Representations (NeurReps)", venue: "NeurIPS", url: "https://sazio.github.io/workshops/neurreps2022/" },
