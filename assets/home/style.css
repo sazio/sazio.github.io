@@ -18,14 +18,8 @@
   --gutter: 28px;
   color-scheme: light;
 }
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --paper: #0d0e12; --paper-2: #15171c; --ink: #ecebe6; --ink-2: #b4b5bb; --ink-3: #7c7f88;
-    --line: #282a31; --uv: #9d86ff; --uv-soft: #221d3a; --green: #4cc38a; --stim: #000000; --stim-ring: #575a66;
-    color-scheme: dark;
-  }
-}
-:root[data-theme="dark"] {
+/* dark is the default; light only when the visitor picks it with the toggle */
+:root:not([data-theme="light"]) {
   --paper: #0d0e12; --paper-2: #15171c; --ink: #ecebe6; --ink-2: #b4b5bb; --ink-3: #7c7f88;
   --line: #282a31; --uv: #9d86ff; --uv-soft: #221d3a; --green: #4cc38a; --stim: #000000; --stim-ring: #575a66;
   color-scheme: dark;
