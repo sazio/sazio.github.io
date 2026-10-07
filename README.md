@@ -1,31 +1,56 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# sazio.github.io
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+Personal website of Simone Azeglio: <https://sazio.github.io>.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+Served by GitHub Pages from `master`. Every push rebuilds the site in about a minute.
 
-# Instructions
+## Layout of the repo
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+| Path | What it is |
+| --- | --- |
+| `index.html` | The homepage. Static HTML with a short Jekyll front matter (permalink `/`, redirect from `/about/`). |
+| `assets/home/data.js` | **All homepage content**: research cards, publications, workshops, news, posts list, links. |
+| `assets/home/style.css` | Homepage styles and the colour tokens (dark by default, light via the toggle). |
+| `assets/home/mosaic.js` | The live retinal mosaic in the header (DoG receptive fields, ON/OFF cells, spike raster). |
+| `assets/home/main.js` | Renders `data.js` into the page. |
+| `assets/home/theme.js` | Light/dark toggle, shared with the post pages. |
+| `_posts/` | Blog posts (Markdown). Images used by older posts live in `_posts/img/`. |
+| `_layouts/post.html`, `assets/home/post.css` | Post layout, matching the homepage. |
+| `_pages/` | Workshop pages (`/workshops/...`), `/projects/`, archives. These still use the original theme. |
+| `_publications/`, `_talks/` | Older per-item pages (`/publications/...`, `/talks/...`). Not linked from the homepage. |
+| `files/` | PDFs. `files/cv.pdf` is the CV linked in the header. |
+| `images/` | Images, including `profile.jpg` (homepage portrait). |
 
-See more info at https://academicpages.github.io/
+## Common edits
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+**Add a paper, news item or workshop.** Edit the matching array in `assets/home/data.js` and push. Each entry is a small object; copy a neighbour. Publications with `selected: true` show by default, the rest under "All". `highlight` adds the coloured badge (e.g. `"Oral"`).
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+**Update the CV.** Replace `files/cv.pdf`.
 
-# Changelog -- bugfixes and enhancements
+**Write a post.** Add `_posts/YYYY-MM-DD-title.md` with front matter:
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+```yaml
+---
+title: 'Post title'
+date: 2026-10-07
+permalink: /posts/2026/10/post-title/
+tags:
+  - tag one
+---
+```
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+The post layout is applied automatically. Add it to the `writing` list in `data.js` so it appears on the homepage.
+
+## Previewing locally
+
+The homepage is plain HTML, so the quickest preview is a static server from the repo root:
+
+```bash
+python3 -m http.server 8000   # then open http://localhost:8000/index.html
+```
+
+The front matter at the top of `index.html` shows up as text in this preview; that is expected. Posts and the other pages need Jekyll (`bundle install && bundle exec jekyll serve`, which requires Ruby 3.x).
+
+## Credits
+
+The pages that still use the old design are built on [Academic Pages](https://github.com/academicpages/academicpages.github.io), itself a fork of the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme © Michael Rose, released under the MIT License (see `LICENSE`).
