@@ -10,7 +10,7 @@ tags:
 
 Progress in urbanization and advancement of the *“fully connected”* society is giving electricity more and more importance as the main energy source for our social life. Electricity, like air and water, is so widespread that nobody may notice its existence. In view of the increase in its demand, the electric power system has come to face three adversely affecting issues, namely: energy security, economic growth, and environmental protection. Or else, if supply of electricity is stopped, our society will be thrown into a terrible chaos. 
 
-![](https://blogs.ei.columbia.edu/wp-content/uploads/2018/06/ClimateModel-768x527.jpg)
+![](https://web.archive.org/web/20200719180745id_/https://blogs.ei.columbia.edu/wp-content/uploads/2018/06/ClimateModel-768x527.jpg)
 
 
 The need of energy savings has become increasingly fundamental in recent years. Especially, with regards to energy consumption due to buildings we are around the *40%* of the global energy **[1]**. The most effective way to reduce energy consumption of existing buildings is *retrofitting*(i.e. the addition of new technology or features to older systems), and one of its implementations pass trough efficient **H**eating, **V**entilation and **A**ir **C**onditioning (**HVAC**) systems.

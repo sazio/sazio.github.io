@@ -65,8 +65,6 @@ The learning process is collaborative. The generator gets better at fooling the 
 
 You can probably guess that they can be tricky to train, due to so many moving parts. This has become a very popular area of research, warranting a [GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) of all named GANs. Some important stuff you may want to check out if your interested are keywords like Wasserstein GANs, Gradient Penalization, Attention, and in this context Style Transfer (namely face2face).
 
-![GAN from PhD thesis.](https://dramsch.net/assets/images/GAN.PNG)
-
 <big><big>It sounds absurd, I know. [Here you can find some more practical examples](https://poloclub.github.io/ganlab/), why don't you play with them for a while?</big></big>
 
 #  <a id='4'>DeepFake Detection Challenge</a>  
@@ -88,12 +86,12 @@ You can probably guess that they can be tricky to train, due to so many moving p
 
 Submissions are scored on [log loss](http://wiki.fast.ai/index.php/Log_Loss):
 
-![logloss](http://latex2png.com/pngs/47025bcc90ef9d505b1050ab5934172f.png)
+<p class="eq">LogLoss = &minus;<sup>1</sup>&frasl;<sub>n</sub> &sum;<sub>i=1</sub><sup>n</sup> [ y<sub>i</sub> log(ŷ<sub>i</sub>) + (1 &minus; y<sub>i</sub>) log(1 &minus; ŷ<sub>i</sub>) ]</p>
 
 where:
 
 * _n_ is the number of videos being predicted
-* _y^<sub>i</sub>_ is the predicted probability of the video being FAKE
+* _ŷ<sub>i</sub>_ is the predicted probability of the video being FAKE
 * _y<sub>i</sub>_ is 1 if the video is FAKE, 0 if REAL
 * _log()_ is the natural (base e) logarithm
 
