@@ -1,0 +1,166 @@
+---
+layout: null
+permalink: /
+redirect_from:
+  - /about/
+  - /about.html
+sitemap: true
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Simone Azeglio</title>
+  <meta name="description" content="Simone Azeglio — computational neuroscience and machine learning. Statistics, symmetry and information in biological and artificial vision.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cellipse cx='16' cy='16' rx='13' ry='10' transform='rotate(-25 16 16)' fill='none' stroke='%235B3FD1' stroke-width='3'/%3E%3Ccircle cx='16' cy='16' r='4' fill='%2316171B'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/home/style.css">
+  <script>
+    try { var t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <header class="nav" id="top">
+    <div class="wrap nav-inner">
+      <a class="brand" href="#top" aria-label="Simone Azeglio, home">
+        <svg viewBox="0 0 32 32" aria-hidden="true"><ellipse cx="16" cy="16" rx="12" ry="9" transform="rotate(-25 16 16)"/><ellipse class="surround" cx="16" cy="16" rx="15" ry="12" transform="rotate(-25 16 16)"/><circle cx="16" cy="16" r="3.2"/></svg>
+        <span>Simone Azeglio</span>
+      </a>
+      <nav aria-label="Sections">
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="#publications">Publications</a>
+        <a href="#community">Community</a>
+        <a href="#news">News</a>
+        <a href="/files/cv.pdf">CV</a>
+        <button class="theme-toggle" type="button" aria-label="Toggle dark mode">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 0 0 16z"/></svg>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- Hero: live retinal mosaic -->
+    <section class="hero" aria-labelledby="hero-title">
+      <canvas id="mosaic" aria-hidden="true"></canvas>
+      <div class="hero-fade" aria-hidden="true"></div>
+      <div class="wrap hero-inner">
+        <p class="eyebrow">Computational neuroscience · Machine learning</p>
+        <h1 id="hero-title">The geometry of<br>visual information.</h1>
+        <p class="hero-sub"><span>Statistics.</span> <span>Symmetry.</span> <span>Information.</span></p>
+        <p class="hero-lede">I study how visual systems, in brains and in machines, turn the structure of natural scenes into neural codes: which statistics they exploit, which transformations they respect, and what each neuron ends up telling us about the world.</p>
+        <ul class="social" data-fill="social" aria-label="Elsewhere"></ul>
+      </div>
+      <div class="raster-wrap" aria-hidden="true">
+        <span class="raster-label">spikes · <span id="raster-n">24</span> cells nearest the object</span>
+        <canvas id="raster"></canvas>
+      </div>
+      <p class="hero-caption">Simulated OFF (<i class="sw sw-off"></i>) and ON (<i class="sw sw-on"></i>) ganglion-cell mosaics tracking a dark object. Move your cursor: the raster records from the cells under it.</p>
+    </section>
+
+    <section id="about" class="section">
+      <div class="wrap about">
+        <figure class="portrait reveal">
+          <div class="rf">
+            <img src="/images/profile.jpg" alt="Portrait of Simone Azeglio" width="900" height="900">
+          </div>
+        </figure>
+        <div class="about-text reveal">
+          <p class="eyebrow">About</p>
+          <h2>Vision, from photoreceptors to priors.</h2>
+          <p class="lead">I am a computational neuroscientist working between machine learning and vision neuroscience, currently a Guest Research Associate in <a href="https://kamitani-lab.ist.i.kyoto-u.ac.jp/">Yukiyasu Kamitani's lab</a> at Kyoto University.</p>
+          <p>I did my PhD at the Vision Institute (Sorbonne) and École Normale Supérieure with <a href="https://scholar.google.it/citations?user=89XheA0AAAAJ">Ulisse Ferrari</a>, <a href="https://sites.google.com/site/neripeter/">Peter Neri</a>, <a href="http://oliviermarre.free.fr/">Olivier Marre</a> and <a href="https://matthewjchalk.wixsite.com/mysite">Matthew Chalk</a>.</p>
+          <p>Most of my work starts from large-scale neural recordings and asks what principles a good visual code should follow, then turns those principles into models that also work as machine learning architectures.</p>
+          <dl class="previously">
+            <dt>Previously</dt>
+            <dd>Research intern with <a href="https://alexhwilliams.info/">Alex Williams</a>, Flatiron Institute</dd>
+            <dd>Research engineer in <a href="https://www.bathellier-lab.org/">Brice Bathellier</a>'s lab, Institut Pasteur</dd>
+            <dd>Summer student with Lorenzo Moneta, CERN</dd>
+            <dd>Visiting student with André Longtin and Leonard Maler, University of Ottawa</dd>
+            <dd>Co-founder and former president, <a href="https://www.mljc.it">Machine Learning Journal Club</a></dd>
+          </dl>
+        </div>
+      </div>
+    </section>
+
+    <section id="research" class="section">
+      <div class="wrap">
+        <header class="section-head reveal">
+          <p class="eyebrow">Research</p>
+          <h2>Three principles of visual coding.</h2>
+          <p class="section-sub">Each starts as a question about the visual system, from the retina to V1 and V4, and turns out to be a question about machine learning too.</p>
+        </header>
+        <div class="pillars" data-fill="pillars"></div>
+      </div>
+    </section>
+
+    <section id="publications" class="section">
+      <div class="wrap">
+        <header class="section-head reveal">
+          <p class="eyebrow">Publications</p>
+          <h2>Papers.</h2>
+          <div class="pub-controls" role="group" aria-label="Filter publications">
+            <button type="button" data-filter="selected" aria-pressed="true">Selected</button>
+            <button type="button" data-filter="all" aria-pressed="false">All</button>
+            <a class="ext" href="https://scholar.google.com/citations?user=ld9Bs6oAAAAJ&hl=en">Google Scholar ↗</a>
+          </div>
+        </header>
+        <ol class="pubs" data-fill="pubs"></ol>
+      </div>
+    </section>
+
+    <section id="community" class="section">
+      <div class="wrap two-col">
+        <header class="section-head reveal">
+          <p class="eyebrow">Community</p>
+          <h2>Workshops I've co-organized.</h2>
+          <p class="section-sub">With Sophia Sanborn, Christian Shewmake, Arianna Di Bernardo and Nina Miolane (NeurReps, SINR), with Samuele Virgili and Gabriel Mahuas (CoSyNe 2024), and with Sonica Saraf and Pietro Zamberlan (CoSyNe 2026).</p>
+        </header>
+        <ol class="timeline" data-fill="workshops"></ol>
+      </div>
+    </section>
+
+    <section id="news" class="section">
+      <div class="wrap two-col">
+        <header class="section-head reveal">
+          <p class="eyebrow">News</p>
+          <h2>Recently.</h2>
+        </header>
+        <div>
+          <ol class="news" data-fill="news"></ol>
+          <button type="button" class="more" data-more="news">Show older</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="writing" class="section">
+      <div class="wrap two-col">
+        <header class="section-head reveal">
+          <p class="eyebrow">Writing</p>
+          <h2>Early posts.</h2>
+          <p class="section-sub">Tutorials from 2019–2020, mostly from my Machine Learning Journal Club days.</p>
+        </header>
+        <ul class="writing" data-fill="writing"></ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <div>
+        <p class="footer-big">Get in touch.</p>
+        <p><a data-fill="email"></a></p>
+      </div>
+      <p class="colophon">The header shows model ganglion cells (about a thousand on a laptop screen) with elliptical difference-of-Gaussians receptive fields, a transient temporal filter and Poisson spiking, drawn live on a canvas. The two colours borrow from the mouse's two cone opsins, UV and green.</p>
+    </div>
+  </footer>
+
+  <script src="/assets/home/data.js"></script>
+  <script src="/assets/home/main.js"></script>
+  <script src="/assets/home/mosaic.js"></script>
+</body>
+</html>
