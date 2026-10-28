@@ -48,6 +48,7 @@ window.SITE = {
         { label: "Multi-scale geometry · Oral", url: "https://arxiv.org/abs/2605.06304" },
         { label: "Decomposition · Spotlight", url: "https://arxiv.org/abs/2505.11309" },
         { label: "Score-based metric", url: "https://arxiv.org/abs/2505.11128" },
+        { label: "Neural encoding · bioRxiv", url: "https://www.biorxiv.org/content/10.64898/2026.10.22.761206v1" },
       ],
     },
   ],
@@ -60,6 +61,20 @@ window.SITE = {
       authors: "S. Azeglio, S. Laquitaine, U. Ferrari, M. Chalk",
       venue: "NeurIPS 2026",
       links: [{ label: "arXiv", url: "https://arxiv.org/abs/2605.06304" }],
+    },
+    {
+      year: 2026, selected: true, tag: "information",
+      title: "The multi-scale geometry of neural encoding",
+      authors: "S. Azeglio, S. Laquitaine, A. Di Bernardo, U. Ferrari, M. Chalk",
+      venue: "bioRxiv",
+      links: [{ label: "bioRxiv", url: "https://www.biorxiv.org/content/10.64898/2026.10.22.761206v1" }],
+    },
+    {
+      year: 2026, selected: false, tag: "symmetry",
+      title: "Visual robustness and neural alignment in a shared foraging task: the Mouse vs. AI benchmark",
+      authors: "M. Schneider, J. S. Canzano, Y. Hou, J. Peng, A. Deepu, U. Karan, P.-H. Pham, T. C. Nguyen, D. S. D. Minh, P. Q. N. Lam, T.-K. Huynh, S. Azeglio, S. Smith, M. Beyeler",
+      venue: "NeurIPS 2026, Evaluations and Datasets track",
+      links: [{ label: "Paper", url: "https://bionicvisionlab.org/publications/2026-12-mouse-vs-ai-visual-robustness-neural-alignment/" }],
     },
     {
       year: 2026, selected: false, tag: "other",
@@ -147,6 +162,7 @@ window.SITE = {
   ],
 
   news: [
+    { date: "2026-10-28", text: "Our multi-scale information geometry paper is an Oral at NeurIPS 2026. I'll be presenting it in Sydney, see you there!", url: "https://arxiv.org/abs/2605.06304" },
     { date: "2026-09-04", text: "NeurReps 2024 and 2025 proceedings published as PMLR volume 282, which I co-edited", url: "https://proceedings.mlr.press/v282/" },
     { date: "2026-07-01", text: "Defended my PhD thesis at the Vision Institute (Sorbonne) and ENS Paris" },
     { date: "2026-03-14", text: "Co-organizing a workshop on modern efficient coding at CoSyNe 2026", url: "https://x.com/simoneazeglio/status/2032906430097883334" },
