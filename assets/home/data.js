@@ -70,7 +70,7 @@ window.SITE = {
       links: [{ label: "bioRxiv", url: "https://www.biorxiv.org/content/10.64898/2026.10.22.761206v1" }],
     },
     {
-      year: 2026, selected: true, tag: "symmetry",
+      year: 2026, selected: false, tag: "symmetry",
       title: "Visual robustness and neural alignment in a shared foraging task: the Mouse vs. AI benchmark",
       authors: "M. Schneider, J. S. Canzano, Y. Hou, J. Peng, A. Deepu, U. Karan, P.-H. Pham, T. C. Nguyen, D. S. D. Minh, P. Q. N. Lam, T.-K. Huynh, S. Azeglio, S. Smith, M. Beyeler",
       venue: "NeurIPS 2026, Evaluations and Datasets track",
