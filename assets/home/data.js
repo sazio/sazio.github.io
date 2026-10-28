@@ -162,7 +162,7 @@ window.SITE = {
   ],
 
   news: [
-    { date: "2026-10-28", text: "Our multi-scale information geometry paper is an Oral at NeurIPS 2026. I'll be presenting it in Sydney, see you there!", url: "https://arxiv.org/abs/2605.06304" },
+    { date: "2026-09-25", text: "Our multi-scale information geometry paper is an Oral at NeurIPS 2026. I'll be presenting it in Sydney, see you there!", url: "https://arxiv.org/abs/2605.06304" },
     { date: "2026-09-04", text: "NeurReps 2024 and 2025 proceedings published as PMLR volume 282, which I co-edited", url: "https://proceedings.mlr.press/v282/" },
     { date: "2026-07-01", text: "Defended my PhD thesis at the Vision Institute (Sorbonne) and ENS Paris" },
     { date: "2026-03-14", text: "Co-organizing a workshop on modern efficient coding at CoSyNe 2026", url: "https://x.com/simoneazeglio/status/2032906430097883334" },
